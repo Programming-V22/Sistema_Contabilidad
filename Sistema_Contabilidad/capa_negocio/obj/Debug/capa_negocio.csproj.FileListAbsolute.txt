@@ -1,0 +1,119 @@
+c:\users\alexander\documents\visual studio 2015\Projects\sistema_contable01\capa_negocio\bin\Debug\capa_negocio.dll
+c:\users\alexander\documents\visual studio 2015\Projects\sistema_contable01\capa_negocio\bin\Debug\capa_negocio.pdb
+c:\users\alexander\documents\visual studio 2015\Projects\sistema_contable01\capa_negocio\bin\Debug\capa_dato.dll
+c:\users\alexander\documents\visual studio 2015\Projects\sistema_contable01\capa_negocio\bin\Debug\capa_dato.pdb
+c:\users\alexander\documents\visual studio 2015\Projects\sistema_contable01\capa_negocio\obj\Debug\capa_negocio.csprojResolveAssemblyReference.cache
+c:\users\alexander\documents\visual studio 2015\Projects\sistema_contable01\capa_negocio\obj\Debug\capa_negocio.dll
+c:\users\alexander\documents\visual studio 2015\Projects\sistema_contable01\capa_negocio\obj\Debug\capa_negocio.pdb
+C:\Users\USUARIO\Downloads\Telegram Desktop\proyecto sistema cotable\sistema_contable01\capa_negocio\bin\Debug\capa_negocio.dll
+C:\Users\USUARIO\Downloads\Telegram Desktop\proyecto sistema cotable\sistema_contable01\capa_negocio\bin\Debug\capa_negocio.pdb
+C:\Users\USUARIO\Downloads\Telegram Desktop\proyecto sistema cotable\sistema_contable01\capa_negocio\bin\Debug\capa_dato.dll
+C:\Users\USUARIO\Downloads\Telegram Desktop\proyecto sistema cotable\sistema_contable01\capa_negocio\bin\Debug\capa_dato.pdb
+C:\Users\USUARIO\Downloads\Telegram Desktop\proyecto sistema cotable\sistema_contable01\capa_negocio\obj\Debug\capa_negocio.csprojResolveAssemblyReference.cache
+C:\Users\USUARIO\Downloads\Telegram Desktop\proyecto sistema cotable\sistema_contable01\capa_negocio\obj\Debug\capa_negocio.dll
+C:\Users\USUARIO\Downloads\Telegram Desktop\proyecto sistema cotable\sistema_contable01\capa_negocio\obj\Debug\capa_negocio.pdb
+C:\Users\Shini\Desktop\proyecto sistema cotable\sistema_contable01\capa_negocio\bin\Debug\capa_negocio.dll
+C:\Users\Shini\Desktop\proyecto sistema cotable\sistema_contable01\capa_negocio\bin\Debug\capa_negocio.pdb
+C:\Users\Shini\Desktop\proyecto sistema cotable\sistema_contable01\capa_negocio\bin\Debug\capa_dato.dll
+C:\Users\Shini\Desktop\proyecto sistema cotable\sistema_contable01\capa_negocio\bin\Debug\capa_dato.pdb
+C:\Users\Shini\Desktop\proyecto sistema cotable\sistema_contable01\capa_negocio\obj\Debug\capa_negocio.csprojResolveAssemblyReference.cache
+C:\Users\Shini\Desktop\proyecto sistema cotable\sistema_contable01\capa_negocio\obj\Debug\capa_negocio.dll
+C:\Users\Shini\Desktop\proyecto sistema cotable\sistema_contable01\capa_negocio\obj\Debug\capa_negocio.pdb
+C:\Users\USUARIO\Desktop\Software II Pro\proyecto sistema cotable\sistema_contable01\capa_negocio\bin\Debug\capa_negocio.dll
+C:\Users\USUARIO\Desktop\Software II Pro\proyecto sistema cotable\sistema_contable01\capa_negocio\bin\Debug\capa_negocio.pdb
+C:\Users\USUARIO\Desktop\Software II Pro\proyecto sistema cotable\sistema_contable01\capa_negocio\bin\Debug\capa_dato.dll
+C:\Users\USUARIO\Desktop\Software II Pro\proyecto sistema cotable\sistema_contable01\capa_negocio\bin\Debug\capa_dato.pdb
+C:\Users\USUARIO\Desktop\Software II Pro\proyecto sistema cotable\sistema_contable01\capa_negocio\obj\Debug\capa_negocio.csprojResolveAssemblyReference.cache
+C:\Users\USUARIO\Desktop\Software II Pro\proyecto sistema cotable\sistema_contable01\capa_negocio\obj\Debug\capa_negocio.dll
+C:\Users\USUARIO\Desktop\Software II Pro\proyecto sistema cotable\sistema_contable01\capa_negocio\obj\Debug\capa_negocio.pdb
+D:\SISTEMAS DESARROLLADOS O DESCARGADOS\Sistema plan de cuentas sw2\proyecto sistema cotable\sistema_contable01\capa_negocio\bin\Debug\capa_negocio.dll
+D:\SISTEMAS DESARROLLADOS O DESCARGADOS\Sistema plan de cuentas sw2\proyecto sistema cotable\sistema_contable01\capa_negocio\bin\Debug\capa_negocio.pdb
+D:\SISTEMAS DESARROLLADOS O DESCARGADOS\Sistema plan de cuentas sw2\proyecto sistema cotable\sistema_contable01\capa_negocio\bin\Debug\capa_dato.dll
+D:\SISTEMAS DESARROLLADOS O DESCARGADOS\Sistema plan de cuentas sw2\proyecto sistema cotable\sistema_contable01\capa_negocio\bin\Debug\capa_dato.pdb
+D:\SISTEMAS DESARROLLADOS O DESCARGADOS\Sistema plan de cuentas sw2\proyecto sistema cotable\sistema_contable01\capa_negocio\obj\Debug\capa_negocio.csprojResolveAssemblyReference.cache
+D:\SISTEMAS DESARROLLADOS O DESCARGADOS\Sistema plan de cuentas sw2\proyecto sistema cotable\sistema_contable01\capa_negocio\obj\Debug\capa_negocio.dll
+D:\SISTEMAS DESARROLLADOS O DESCARGADOS\Sistema plan de cuentas sw2\proyecto sistema cotable\sistema_contable01\capa_negocio\obj\Debug\capa_negocio.pdb
+C:\Users\Shini\Desktop\sistema_contable01\capa_negocio\bin\Debug\capa_negocio.dll
+C:\Users\Shini\Desktop\sistema_contable01\capa_negocio\bin\Debug\capa_negocio.pdb
+C:\Users\Shini\Desktop\sistema_contable01\capa_negocio\bin\Debug\capa_dato.dll
+C:\Users\Shini\Desktop\sistema_contable01\capa_negocio\bin\Debug\capa_dato.pdb
+C:\Users\Shini\Desktop\sistema_contable01\capa_negocio\obj\Debug\capa_negocio.csprojResolveAssemblyReference.cache
+C:\Users\Shini\Desktop\sistema_contable01\capa_negocio\obj\Debug\capa_negocio.dll
+C:\Users\Shini\Desktop\sistema_contable01\capa_negocio\obj\Debug\capa_negocio.pdb
+D:\SISTEMAS DESARROLLADOS O DESCARGADOS\sistema_contable01 F\capa_negocio\bin\Debug\capa_negocio.dll
+D:\SISTEMAS DESARROLLADOS O DESCARGADOS\sistema_contable01 F\capa_negocio\bin\Debug\capa_negocio.pdb
+D:\SISTEMAS DESARROLLADOS O DESCARGADOS\sistema_contable01 F\capa_negocio\bin\Debug\capa_dato.dll
+D:\SISTEMAS DESARROLLADOS O DESCARGADOS\sistema_contable01 F\capa_negocio\bin\Debug\capa_dato.pdb
+D:\SISTEMAS DESARROLLADOS O DESCARGADOS\sistema_contable01 F\capa_negocio\obj\Debug\capa_negocio.csprojResolveAssemblyReference.cache
+D:\SISTEMAS DESARROLLADOS O DESCARGADOS\sistema_contable01 F\capa_negocio\obj\Debug\capa_negocio.dll
+D:\SISTEMAS DESARROLLADOS O DESCARGADOS\sistema_contable01 F\capa_negocio\obj\Debug\capa_negocio.pdb
+C:\Users\Shini\Desktop\sistema_contable01 F\capa_negocio\bin\Debug\capa_negocio.dll
+C:\Users\Shini\Desktop\sistema_contable01 F\capa_negocio\bin\Debug\capa_negocio.pdb
+C:\Users\Shini\Desktop\sistema_contable01 F\capa_negocio\bin\Debug\capa_dato.dll
+C:\Users\Shini\Desktop\sistema_contable01 F\capa_negocio\bin\Debug\capa_dato.pdb
+C:\Users\Shini\Desktop\sistema_contable01 F\capa_negocio\obj\Debug\capa_negocio.csprojResolveAssemblyReference.cache
+C:\Users\Shini\Desktop\sistema_contable01 F\capa_negocio\obj\Debug\capa_negocio.dll
+C:\Users\Shini\Desktop\sistema_contable01 F\capa_negocio\obj\Debug\capa_negocio.pdb
+D:\pasado\sistema_contable01 F\capa_negocio\bin\Debug\capa_negocio.dll
+D:\pasado\sistema_contable01 F\capa_negocio\bin\Debug\capa_negocio.pdb
+D:\pasado\sistema_contable01 F\capa_negocio\bin\Debug\capa_dato.dll
+D:\pasado\sistema_contable01 F\capa_negocio\bin\Debug\capa_dato.pdb
+D:\pasado\sistema_contable01 F\capa_negocio\obj\Debug\capa_negocio.csprojResolveAssemblyReference.cache
+D:\pasado\sistema_contable01 F\capa_negocio\obj\Debug\capa_negocio.dll
+D:\pasado\sistema_contable01 F\capa_negocio\obj\Debug\capa_negocio.pdb
+K:\Peli\sistema contable\sistema_contable01 F\capa_negocio\bin\Debug\capa_negocio.dll
+K:\Peli\sistema contable\sistema_contable01 F\capa_negocio\bin\Debug\capa_negocio.pdb
+K:\Peli\sistema contable\sistema_contable01 F\capa_negocio\bin\Debug\capa_dato.dll
+K:\Peli\sistema contable\sistema_contable01 F\capa_negocio\bin\Debug\capa_dato.pdb
+K:\Peli\sistema contable\sistema_contable01 F\capa_negocio\obj\Debug\capa_negocio.csprojResolveAssemblyReference.cache
+K:\Peli\sistema contable\sistema_contable01 F\capa_negocio\obj\Debug\capa_negocio.dll
+K:\Peli\sistema contable\sistema_contable01 F\capa_negocio\obj\Debug\capa_negocio.pdb
+C:\Users\ALEXANDER\Downloads\para seer reportes\sistema_conta\sistema_contable01 Fu\capa_negocio\bin\Debug\capa_negocio.dll
+C:\Users\ALEXANDER\Downloads\para seer reportes\sistema_conta\sistema_contable01 Fu\capa_negocio\bin\Debug\capa_negocio.pdb
+C:\Users\ALEXANDER\Downloads\para seer reportes\sistema_conta\sistema_contable01 Fu\capa_negocio\bin\Debug\capa_dato.dll
+C:\Users\ALEXANDER\Downloads\para seer reportes\sistema_conta\sistema_contable01 Fu\capa_negocio\bin\Debug\capa_dato.pdb
+C:\Users\ALEXANDER\Downloads\para seer reportes\sistema_conta\sistema_contable01 Fu\capa_negocio\obj\Debug\capa_negocio.csprojResolveAssemblyReference.cache
+C:\Users\ALEXANDER\Downloads\para seer reportes\sistema_conta\sistema_contable01 Fu\capa_negocio\obj\Debug\capa_negocio.dll
+C:\Users\ALEXANDER\Downloads\para seer reportes\sistema_conta\sistema_contable01 Fu\capa_negocio\obj\Debug\capa_negocio.pdb
+C:\Users\USUARIO\Desktop\sistem\sistema_contable01 Fu\capa_negocio\bin\Debug\capa_negocio.dll
+C:\Users\USUARIO\Desktop\sistem\sistema_contable01 Fu\capa_negocio\bin\Debug\capa_negocio.pdb
+C:\Users\USUARIO\Desktop\sistem\sistema_contable01 Fu\capa_negocio\bin\Debug\capa_dato.dll
+C:\Users\USUARIO\Desktop\sistem\sistema_contable01 Fu\capa_negocio\bin\Debug\capa_dato.pdb
+C:\Users\USUARIO\Desktop\sistem\sistema_contable01 Fu\capa_negocio\obj\Debug\capa_negocio.csprojResolveAssemblyReference.cache
+C:\Users\USUARIO\Desktop\sistem\sistema_contable01 Fu\capa_negocio\obj\Debug\capa_negocio.dll
+C:\Users\USUARIO\Desktop\sistem\sistema_contable01 Fu\capa_negocio\obj\Debug\capa_negocio.pdb
+C:\Users\ALEXANDER\Downloads\Telegram Desktop\sistem\sistema_contable01 Fu\capa_negocio\bin\Debug\capa_negocio.dll
+C:\Users\ALEXANDER\Downloads\Telegram Desktop\sistem\sistema_contable01 Fu\capa_negocio\bin\Debug\capa_negocio.pdb
+C:\Users\ALEXANDER\Downloads\Telegram Desktop\sistem\sistema_contable01 Fu\capa_negocio\bin\Debug\capa_dato.dll
+C:\Users\ALEXANDER\Downloads\Telegram Desktop\sistem\sistema_contable01 Fu\capa_negocio\bin\Debug\capa_dato.pdb
+C:\Users\ALEXANDER\Downloads\Telegram Desktop\sistem\sistema_contable01 Fu\capa_negocio\obj\Debug\capa_negocio.csprojResolveAssemblyReference.cache
+C:\Users\ALEXANDER\Downloads\Telegram Desktop\sistem\sistema_contable01 Fu\capa_negocio\obj\Debug\capa_negocio.dll
+C:\Users\ALEXANDER\Downloads\Telegram Desktop\sistem\sistema_contable01 Fu\capa_negocio\obj\Debug\capa_negocio.pdb
+C:\Users\windo.DESKTOP-LUS547A\Documents\Visual Studio 2019\proyectos\sistema contable en C# 0.1\Sistema_Contabilidad\capa_negocio\bin\Debug\capa_negocio.dll
+C:\Users\windo.DESKTOP-LUS547A\Documents\Visual Studio 2019\proyectos\sistema contable en C# 0.1\Sistema_Contabilidad\capa_negocio\bin\Debug\capa_negocio.pdb
+C:\Users\windo.DESKTOP-LUS547A\Documents\Visual Studio 2019\proyectos\sistema contable en C# 0.1\Sistema_Contabilidad\capa_negocio\bin\Debug\capa_dato.dll
+C:\Users\windo.DESKTOP-LUS547A\Documents\Visual Studio 2019\proyectos\sistema contable en C# 0.1\Sistema_Contabilidad\capa_negocio\bin\Debug\capa_dato.pdb
+C:\Users\windo.DESKTOP-LUS547A\Documents\Visual Studio 2019\proyectos\sistema contable en C# 0.1\Sistema_Contabilidad\capa_negocio\obj\Debug\capa_negocio.csprojAssemblyReference.cache
+C:\Users\windo.DESKTOP-LUS547A\Documents\Visual Studio 2019\proyectos\sistema contable en C# 0.1\Sistema_Contabilidad\capa_negocio\obj\Debug\capa_negocio.csproj.CoreCompileInputs.cache
+C:\Users\windo.DESKTOP-LUS547A\Documents\Visual Studio 2019\proyectos\sistema contable en C# 0.1\Sistema_Contabilidad\capa_negocio\obj\Debug\capa_negocio.csproj.CopyComplete
+C:\Users\windo.DESKTOP-LUS547A\Documents\Visual Studio 2019\proyectos\sistema contable en C# 0.1\Sistema_Contabilidad\capa_negocio\obj\Debug\capa_negocio.dll
+C:\Users\windo.DESKTOP-LUS547A\Documents\Visual Studio 2019\proyectos\sistema contable en C# 0.1\Sistema_Contabilidad\capa_negocio\obj\Debug\capa_negocio.pdb
+C:\Users\windo.DESKTOP-LUS547A\Documents\Visual Studio 2019\proyectos\Sistema_Contabilidad\capa_negocio\bin\Debug\capa_negocio.dll
+C:\Users\windo.DESKTOP-LUS547A\Documents\Visual Studio 2019\proyectos\Sistema_Contabilidad\capa_negocio\bin\Debug\capa_negocio.pdb
+C:\Users\windo.DESKTOP-LUS547A\Documents\Visual Studio 2019\proyectos\Sistema_Contabilidad\capa_negocio\bin\Debug\capa_dato.dll
+C:\Users\windo.DESKTOP-LUS547A\Documents\Visual Studio 2019\proyectos\Sistema_Contabilidad\capa_negocio\bin\Debug\capa_dato.pdb
+C:\Users\windo.DESKTOP-LUS547A\Documents\Visual Studio 2019\proyectos\Sistema_Contabilidad\capa_negocio\obj\Debug\capa_negocio.csprojAssemblyReference.cache
+C:\Users\windo.DESKTOP-LUS547A\Documents\Visual Studio 2019\proyectos\Sistema_Contabilidad\capa_negocio\obj\Debug\capa_negocio.csproj.CoreCompileInputs.cache
+C:\Users\windo.DESKTOP-LUS547A\Documents\Visual Studio 2019\proyectos\Sistema_Contabilidad\capa_negocio\obj\Debug\capa_negocio.csproj.CopyComplete
+C:\Users\windo.DESKTOP-LUS547A\Documents\Visual Studio 2019\proyectos\Sistema_Contabilidad\capa_negocio\obj\Debug\capa_negocio.dll
+C:\Users\windo.DESKTOP-LUS547A\Documents\Visual Studio 2019\proyectos\Sistema_Contabilidad\capa_negocio\obj\Debug\capa_negocio.pdb
+C:\Users\windo.DESKTOP-LUS547A\Documents\Visual Studio 2022\proyectos\Sistema_Contabilidad\capa_negocio\bin\Debug\capa_negocio.dll
+C:\Users\windo.DESKTOP-LUS547A\Documents\Visual Studio 2022\proyectos\Sistema_Contabilidad\capa_negocio\bin\Debug\capa_negocio.pdb
+C:\Users\windo.DESKTOP-LUS547A\Documents\Visual Studio 2022\proyectos\Sistema_Contabilidad\capa_negocio\bin\Debug\capa_dato.dll
+C:\Users\windo.DESKTOP-LUS547A\Documents\Visual Studio 2022\proyectos\Sistema_Contabilidad\capa_negocio\bin\Debug\capa_dato.pdb
+C:\Users\windo.DESKTOP-LUS547A\Documents\Visual Studio 2022\proyectos\Sistema_Contabilidad\capa_negocio\obj\Debug\capa_negocio.csproj.AssemblyReference.cache
+C:\Users\windo.DESKTOP-LUS547A\Documents\Visual Studio 2022\proyectos\Sistema_Contabilidad\capa_negocio\obj\Debug\capa_negocio.csproj.CoreCompileInputs.cache
+C:\Users\windo.DESKTOP-LUS547A\Documents\Visual Studio 2022\proyectos\Sistema_Contabilidad\capa_negocio\obj\Debug\capa_negocio.csproj.CopyComplete
+C:\Users\windo.DESKTOP-LUS547A\Documents\Visual Studio 2022\proyectos\Sistema_Contabilidad\capa_negocio\obj\Debug\capa_negocio.dll
+C:\Users\windo.DESKTOP-LUS547A\Documents\Visual Studio 2022\proyectos\Sistema_Contabilidad\capa_negocio\obj\Debug\capa_negocio.pdb
+C:\Users\windo.DESKTOP-LUS547A\Documents\Visual Studio 2022\proyectos\Sistema_Contabilidad\capa_negocio\bin\Debug\capa_negocio.dll.config

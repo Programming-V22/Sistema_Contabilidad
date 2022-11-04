@@ -1,0 +1,168 @@
+C:\Users\windo.DESKTOP-LUS547A\Documents\Visual Studio 2019\proyectos\sistema contable en C# 0.1\Sistema_Contabilidad\Sistema_Contabilidad\bin\Debug\sistema_contable01.exe.config
+C:\Users\windo.DESKTOP-LUS547A\Documents\Visual Studio 2019\proyectos\sistema contable en C# 0.1\Sistema_Contabilidad\Sistema_Contabilidad\bin\Debug\sistema_contable01.exe
+C:\Users\windo.DESKTOP-LUS547A\Documents\Visual Studio 2019\proyectos\sistema contable en C# 0.1\Sistema_Contabilidad\Sistema_Contabilidad\bin\Debug\sistema_contable01.pdb
+C:\Users\windo.DESKTOP-LUS547A\Documents\Visual Studio 2019\proyectos\sistema contable en C# 0.1\Sistema_Contabilidad\Sistema_Contabilidad\bin\Debug\capa_dato.dll
+C:\Users\windo.DESKTOP-LUS547A\Documents\Visual Studio 2019\proyectos\sistema contable en C# 0.1\Sistema_Contabilidad\Sistema_Contabilidad\bin\Debug\capa_negocio.dll
+C:\Users\windo.DESKTOP-LUS547A\Documents\Visual Studio 2019\proyectos\sistema contable en C# 0.1\Sistema_Contabilidad\Sistema_Contabilidad\bin\Debug\capa_dato.pdb
+C:\Users\windo.DESKTOP-LUS547A\Documents\Visual Studio 2019\proyectos\sistema contable en C# 0.1\Sistema_Contabilidad\Sistema_Contabilidad\bin\Debug\capa_negocio.pdb
+C:\Users\windo.DESKTOP-LUS547A\Documents\Visual Studio 2019\proyectos\sistema contable en C# 0.1\Sistema_Contabilidad\Sistema_Contabilidad\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\windo.DESKTOP-LUS547A\Documents\Visual Studio 2019\proyectos\sistema contable en C# 0.1\Sistema_Contabilidad\Sistema_Contabilidad\obj\Debug\Sistema_Contabilidad.csprojAssemblyReference.cache
+C:\Users\windo.DESKTOP-LUS547A\Documents\Visual Studio 2019\proyectos\sistema contable en C# 0.1\Sistema_Contabilidad\Sistema_Contabilidad\obj\Debug\Sistema_Contabilidad.csproj.ResolveComReference.cache
+C:\Users\windo.DESKTOP-LUS547A\Documents\Visual Studio 2019\proyectos\sistema contable en C# 0.1\Sistema_Contabilidad\Sistema_Contabilidad\obj\Debug\sistema_contable01.frmPlan_de_cuenta.resources
+C:\Users\windo.DESKTOP-LUS547A\Documents\Visual Studio 2019\proyectos\sistema contable en C# 0.1\Sistema_Contabilidad\Sistema_Contabilidad\obj\Debug\sistema_contable01.FrmzBuscar_plan.resources
+C:\Users\windo.DESKTOP-LUS547A\Documents\Visual Studio 2019\proyectos\sistema contable en C# 0.1\Sistema_Contabilidad\Sistema_Contabilidad\obj\Debug\sistema_contable01.frm_asiento.resources
+C:\Users\windo.DESKTOP-LUS547A\Documents\Visual Studio 2019\proyectos\sistema contable en C# 0.1\Sistema_Contabilidad\Sistema_Contabilidad\obj\Debug\sistema_contable01.frm_empresa.resources
+C:\Users\windo.DESKTOP-LUS547A\Documents\Visual Studio 2019\proyectos\sistema contable en C# 0.1\Sistema_Contabilidad\Sistema_Contabilidad\obj\Debug\sistema_contable01.frm_gestion.resources
+C:\Users\windo.DESKTOP-LUS547A\Documents\Visual Studio 2019\proyectos\sistema contable en C# 0.1\Sistema_Contabilidad\Sistema_Contabilidad\obj\Debug\sistema_contable01.Frm_imp_libro_report.resources
+C:\Users\windo.DESKTOP-LUS547A\Documents\Visual Studio 2019\proyectos\sistema contable en C# 0.1\Sistema_Contabilidad\Sistema_Contabilidad\obj\Debug\sistema_contable01.Frm_libro_mayor_fecha.resources
+C:\Users\windo.DESKTOP-LUS547A\Documents\Visual Studio 2019\proyectos\sistema contable en C# 0.1\Sistema_Contabilidad\Sistema_Contabilidad\obj\Debug\sistema_contable01.Frm_libro_mayor_b.resources
+C:\Users\windo.DESKTOP-LUS547A\Documents\Visual Studio 2019\proyectos\sistema contable en C# 0.1\Sistema_Contabilidad\Sistema_Contabilidad\obj\Debug\sistema_contable01.Frm_login.resources
+C:\Users\windo.DESKTOP-LUS547A\Documents\Visual Studio 2019\proyectos\sistema contable en C# 0.1\Sistema_Contabilidad\Sistema_Contabilidad\obj\Debug\sistema_contable01.frm_loginn1.resources
+C:\Users\windo.DESKTOP-LUS547A\Documents\Visual Studio 2019\proyectos\sistema contable en C# 0.1\Sistema_Contabilidad\Sistema_Contabilidad\obj\Debug\sistema_contable01.Frm_reportes.resources
+C:\Users\windo.DESKTOP-LUS547A\Documents\Visual Studio 2019\proyectos\sistema contable en C# 0.1\Sistema_Contabilidad\Sistema_Contabilidad\obj\Debug\sistema_contable01.Frm_report_asiento_fecha.resources
+C:\Users\windo.DESKTOP-LUS547A\Documents\Visual Studio 2019\proyectos\sistema contable en C# 0.1\Sistema_Contabilidad\Sistema_Contabilidad\obj\Debug\sistema_contable01.Frm_sumas_saldos.resources
+C:\Users\windo.DESKTOP-LUS547A\Documents\Visual Studio 2019\proyectos\sistema contable en C# 0.1\Sistema_Contabilidad\Sistema_Contabilidad\obj\Debug\sistema_contable01.Frm_usuario.resources
+C:\Users\windo.DESKTOP-LUS547A\Documents\Visual Studio 2019\proyectos\sistema contable en C# 0.1\Sistema_Contabilidad\Sistema_Contabilidad\obj\Debug\sistema_contable01.Properties.Resources.resources
+C:\Users\windo.DESKTOP-LUS547A\Documents\Visual Studio 2019\proyectos\sistema contable en C# 0.1\Sistema_Contabilidad\Sistema_Contabilidad\obj\Debug\Sistema_Contabilidad.csproj.GenerateResource.cache
+C:\Users\windo.DESKTOP-LUS547A\Documents\Visual Studio 2019\proyectos\sistema contable en C# 0.1\Sistema_Contabilidad\Sistema_Contabilidad\obj\Debug\RdlCompile.cache
+C:\Users\windo.DESKTOP-LUS547A\Documents\Visual Studio 2019\proyectos\sistema contable en C# 0.1\Sistema_Contabilidad\Sistema_Contabilidad\obj\Debug\RdlCompile.compiled
+C:\Users\windo.DESKTOP-LUS547A\Documents\Visual Studio 2019\proyectos\sistema contable en C# 0.1\Sistema_Contabilidad\Sistema_Contabilidad\obj\Debug\Sistema_Contabilidad.csproj.CoreCompileInputs.cache
+C:\Users\windo.DESKTOP-LUS547A\Documents\Visual Studio 2019\proyectos\sistema contable en C# 0.1\Sistema_Contabilidad\Sistema_Contabilidad\obj\Debug\Sistema_Contabilidad.csproj.CopyComplete
+C:\Users\windo.DESKTOP-LUS547A\Documents\Visual Studio 2019\proyectos\sistema contable en C# 0.1\Sistema_Contabilidad\Sistema_Contabilidad\obj\Debug\sistema_contable01.exe
+C:\Users\windo.DESKTOP-LUS547A\Documents\Visual Studio 2019\proyectos\sistema contable en C# 0.1\Sistema_Contabilidad\Sistema_Contabilidad\obj\Debug\sistema_contable01.pdb
+C:\Users\windo.DESKTOP-LUS547A\Documents\Visual Studio 2019\proyectos\Sistema_Contabilidad\Sistema_Contabilidad\bin\Debug\sistema_contable01.exe.config
+C:\Users\windo.DESKTOP-LUS547A\Documents\Visual Studio 2019\proyectos\Sistema_Contabilidad\Sistema_Contabilidad\bin\Debug\sistema_contable01.exe
+C:\Users\windo.DESKTOP-LUS547A\Documents\Visual Studio 2019\proyectos\Sistema_Contabilidad\Sistema_Contabilidad\bin\Debug\sistema_contable01.pdb
+C:\Users\windo.DESKTOP-LUS547A\Documents\Visual Studio 2019\proyectos\Sistema_Contabilidad\Sistema_Contabilidad\bin\Debug\capa_dato.dll
+C:\Users\windo.DESKTOP-LUS547A\Documents\Visual Studio 2019\proyectos\Sistema_Contabilidad\Sistema_Contabilidad\bin\Debug\capa_negocio.dll
+C:\Users\windo.DESKTOP-LUS547A\Documents\Visual Studio 2019\proyectos\Sistema_Contabilidad\Sistema_Contabilidad\bin\Debug\capa_dato.pdb
+C:\Users\windo.DESKTOP-LUS547A\Documents\Visual Studio 2019\proyectos\Sistema_Contabilidad\Sistema_Contabilidad\bin\Debug\capa_negocio.pdb
+C:\Users\windo.DESKTOP-LUS547A\Documents\Visual Studio 2019\proyectos\Sistema_Contabilidad\Sistema_Contabilidad\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\windo.DESKTOP-LUS547A\Documents\Visual Studio 2019\proyectos\Sistema_Contabilidad\Sistema_Contabilidad\obj\Debug\Sistema_Contabilidad.csprojAssemblyReference.cache
+C:\Users\windo.DESKTOP-LUS547A\Documents\Visual Studio 2019\proyectos\Sistema_Contabilidad\Sistema_Contabilidad\obj\Debug\Sistema_Contabilidad.csproj.ResolveComReference.cache
+C:\Users\windo.DESKTOP-LUS547A\Documents\Visual Studio 2019\proyectos\Sistema_Contabilidad\Sistema_Contabilidad\obj\Debug\sistema_contable01.frmPlan_de_cuenta.resources
+C:\Users\windo.DESKTOP-LUS547A\Documents\Visual Studio 2019\proyectos\Sistema_Contabilidad\Sistema_Contabilidad\obj\Debug\sistema_contable01.FrmzBuscar_plan.resources
+C:\Users\windo.DESKTOP-LUS547A\Documents\Visual Studio 2019\proyectos\Sistema_Contabilidad\Sistema_Contabilidad\obj\Debug\sistema_contable01.frm_asiento.resources
+C:\Users\windo.DESKTOP-LUS547A\Documents\Visual Studio 2019\proyectos\Sistema_Contabilidad\Sistema_Contabilidad\obj\Debug\sistema_contable01.frm_empresa.resources
+C:\Users\windo.DESKTOP-LUS547A\Documents\Visual Studio 2019\proyectos\Sistema_Contabilidad\Sistema_Contabilidad\obj\Debug\sistema_contable01.frm_gestion.resources
+C:\Users\windo.DESKTOP-LUS547A\Documents\Visual Studio 2019\proyectos\Sistema_Contabilidad\Sistema_Contabilidad\obj\Debug\sistema_contable01.Frm_imp_libro_report.resources
+C:\Users\windo.DESKTOP-LUS547A\Documents\Visual Studio 2019\proyectos\Sistema_Contabilidad\Sistema_Contabilidad\obj\Debug\sistema_contable01.Frm_libro_mayor_fecha.resources
+C:\Users\windo.DESKTOP-LUS547A\Documents\Visual Studio 2019\proyectos\Sistema_Contabilidad\Sistema_Contabilidad\obj\Debug\sistema_contable01.Frm_libro_mayor_b.resources
+C:\Users\windo.DESKTOP-LUS547A\Documents\Visual Studio 2019\proyectos\Sistema_Contabilidad\Sistema_Contabilidad\obj\Debug\sistema_contable01.Frm_login.resources
+C:\Users\windo.DESKTOP-LUS547A\Documents\Visual Studio 2019\proyectos\Sistema_Contabilidad\Sistema_Contabilidad\obj\Debug\sistema_contable01.frm_loginn1.resources
+C:\Users\windo.DESKTOP-LUS547A\Documents\Visual Studio 2019\proyectos\Sistema_Contabilidad\Sistema_Contabilidad\obj\Debug\sistema_contable01.Frm_reportes.resources
+C:\Users\windo.DESKTOP-LUS547A\Documents\Visual Studio 2019\proyectos\Sistema_Contabilidad\Sistema_Contabilidad\obj\Debug\sistema_contable01.Frm_report_asiento_fecha.resources
+C:\Users\windo.DESKTOP-LUS547A\Documents\Visual Studio 2019\proyectos\Sistema_Contabilidad\Sistema_Contabilidad\obj\Debug\sistema_contable01.Frm_sumas_saldos.resources
+C:\Users\windo.DESKTOP-LUS547A\Documents\Visual Studio 2019\proyectos\Sistema_Contabilidad\Sistema_Contabilidad\obj\Debug\sistema_contable01.Frm_usuario.resources
+C:\Users\windo.DESKTOP-LUS547A\Documents\Visual Studio 2019\proyectos\Sistema_Contabilidad\Sistema_Contabilidad\obj\Debug\sistema_contable01.Properties.Resources.resources
+C:\Users\windo.DESKTOP-LUS547A\Documents\Visual Studio 2019\proyectos\Sistema_Contabilidad\Sistema_Contabilidad\obj\Debug\Sistema_Contabilidad.csproj.GenerateResource.cache
+C:\Users\windo.DESKTOP-LUS547A\Documents\Visual Studio 2019\proyectos\Sistema_Contabilidad\Sistema_Contabilidad\obj\Debug\RdlCompile.cache
+C:\Users\windo.DESKTOP-LUS547A\Documents\Visual Studio 2019\proyectos\Sistema_Contabilidad\Sistema_Contabilidad\obj\Debug\RdlCompile.compiled
+C:\Users\windo.DESKTOP-LUS547A\Documents\Visual Studio 2019\proyectos\Sistema_Contabilidad\Sistema_Contabilidad\obj\Debug\Sistema_Contabilidad.csproj.CoreCompileInputs.cache
+C:\Users\windo.DESKTOP-LUS547A\Documents\Visual Studio 2019\proyectos\Sistema_Contabilidad\Sistema_Contabilidad\obj\Debug\Sistema_Contabilidad.csproj.CopyComplete
+C:\Users\windo.DESKTOP-LUS547A\Documents\Visual Studio 2019\proyectos\Sistema_Contabilidad\Sistema_Contabilidad\obj\Debug\sistema_contable01.exe
+C:\Users\windo.DESKTOP-LUS547A\Documents\Visual Studio 2019\proyectos\Sistema_Contabilidad\Sistema_Contabilidad\obj\Debug\sistema_contable01.pdb
+C:\Users\windo.DESKTOP-LUS547A\Documents\Visual Studio 2019\proyectos\Sistema_Contabilidad\Sistema_Contabilidad\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\windo.DESKTOP-LUS547A\Documents\Visual Studio 2019\proyectos\Sistema_Contabilidad\Sistema_Contabilidad\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\windo.DESKTOP-LUS547A\Documents\Visual Studio 2019\proyectos\Sistema_Contabilidad\Sistema_Contabilidad\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\windo.DESKTOP-LUS547A\Documents\Visual Studio 2019\proyectos\Sistema_Contabilidad\Sistema_Contabilidad\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\windo.DESKTOP-LUS547A\Documents\Visual Studio 2019\proyectos\Sistema_Contabilidad\Sistema_Contabilidad\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\windo.DESKTOP-LUS547A\Documents\Visual Studio 2019\proyectos\Sistema_Contabilidad\Sistema_Contabilidad\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\windo.DESKTOP-LUS547A\Documents\Visual Studio 2019\proyectos\Sistema_Contabilidad\Sistema_Contabilidad\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\windo.DESKTOP-LUS547A\Documents\Visual Studio 2019\proyectos\Sistema_Contabilidad\Sistema_Contabilidad\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\windo.DESKTOP-LUS547A\Documents\Visual Studio 2019\proyectos\Sistema_Contabilidad\Sistema_Contabilidad\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\windo.DESKTOP-LUS547A\Documents\Visual Studio 2019\proyectos\Sistema_Contabilidad\Sistema_Contabilidad\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\windo.DESKTOP-LUS547A\Documents\Visual Studio 2019\proyectos\Sistema_Contabilidad\Sistema_Contabilidad\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\windo.DESKTOP-LUS547A\Documents\Visual Studio 2019\proyectos\Sistema_Contabilidad\Sistema_Contabilidad\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\windo.DESKTOP-LUS547A\Documents\Visual Studio 2019\proyectos\Sistema_Contabilidad\Sistema_Contabilidad\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\windo.DESKTOP-LUS547A\Documents\Visual Studio 2019\proyectos\Sistema_Contabilidad\Sistema_Contabilidad\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\windo.DESKTOP-LUS547A\Documents\Visual Studio 2022\proyectos\Sistema_Contabilidad\Sistema_Contabilidad\bin\Debug\sistema_contable01.exe.config
+C:\Users\windo.DESKTOP-LUS547A\Documents\Visual Studio 2022\proyectos\Sistema_Contabilidad\Sistema_Contabilidad\bin\Debug\sistema_contable01.exe
+C:\Users\windo.DESKTOP-LUS547A\Documents\Visual Studio 2022\proyectos\Sistema_Contabilidad\Sistema_Contabilidad\bin\Debug\sistema_contable01.pdb
+C:\Users\windo.DESKTOP-LUS547A\Documents\Visual Studio 2022\proyectos\Sistema_Contabilidad\Sistema_Contabilidad\bin\Debug\capa_dato.dll
+C:\Users\windo.DESKTOP-LUS547A\Documents\Visual Studio 2022\proyectos\Sistema_Contabilidad\Sistema_Contabilidad\bin\Debug\capa_negocio.dll
+C:\Users\windo.DESKTOP-LUS547A\Documents\Visual Studio 2022\proyectos\Sistema_Contabilidad\Sistema_Contabilidad\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\windo.DESKTOP-LUS547A\Documents\Visual Studio 2022\proyectos\Sistema_Contabilidad\Sistema_Contabilidad\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\windo.DESKTOP-LUS547A\Documents\Visual Studio 2022\proyectos\Sistema_Contabilidad\Sistema_Contabilidad\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\windo.DESKTOP-LUS547A\Documents\Visual Studio 2022\proyectos\Sistema_Contabilidad\Sistema_Contabilidad\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\windo.DESKTOP-LUS547A\Documents\Visual Studio 2022\proyectos\Sistema_Contabilidad\Sistema_Contabilidad\bin\Debug\capa_dato.pdb
+C:\Users\windo.DESKTOP-LUS547A\Documents\Visual Studio 2022\proyectos\Sistema_Contabilidad\Sistema_Contabilidad\bin\Debug\capa_negocio.pdb
+C:\Users\windo.DESKTOP-LUS547A\Documents\Visual Studio 2022\proyectos\Sistema_Contabilidad\Sistema_Contabilidad\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\windo.DESKTOP-LUS547A\Documents\Visual Studio 2022\proyectos\Sistema_Contabilidad\Sistema_Contabilidad\obj\Debug\Sistema_Contabilidad.csproj.AssemblyReference.cache
+C:\Users\windo.DESKTOP-LUS547A\Documents\Visual Studio 2022\proyectos\Sistema_Contabilidad\Sistema_Contabilidad\obj\Debug\Sistema_Contabilidad.csproj.SuggestedBindingRedirects.cache
+C:\Users\windo.DESKTOP-LUS547A\Documents\Visual Studio 2022\proyectos\Sistema_Contabilidad\Sistema_Contabilidad\obj\Debug\Sistema_Contabilidad.csproj.ResolveComReference.cache
+C:\Users\windo.DESKTOP-LUS547A\Documents\Visual Studio 2022\proyectos\Sistema_Contabilidad\Sistema_Contabilidad\obj\Debug\sistema_contable01.frmPlan_de_cuenta.resources
+C:\Users\windo.DESKTOP-LUS547A\Documents\Visual Studio 2022\proyectos\Sistema_Contabilidad\Sistema_Contabilidad\obj\Debug\sistema_contable01.FrmzBuscar_plan.resources
+C:\Users\windo.DESKTOP-LUS547A\Documents\Visual Studio 2022\proyectos\Sistema_Contabilidad\Sistema_Contabilidad\obj\Debug\sistema_contable01.frm_asiento.resources
+C:\Users\windo.DESKTOP-LUS547A\Documents\Visual Studio 2022\proyectos\Sistema_Contabilidad\Sistema_Contabilidad\obj\Debug\sistema_contable01.frm_empresa.resources
+C:\Users\windo.DESKTOP-LUS547A\Documents\Visual Studio 2022\proyectos\Sistema_Contabilidad\Sistema_Contabilidad\obj\Debug\sistema_contable01.frm_gestion.resources
+C:\Users\windo.DESKTOP-LUS547A\Documents\Visual Studio 2022\proyectos\Sistema_Contabilidad\Sistema_Contabilidad\obj\Debug\sistema_contable01.Frm_imp_libro_report.resources
+C:\Users\windo.DESKTOP-LUS547A\Documents\Visual Studio 2022\proyectos\Sistema_Contabilidad\Sistema_Contabilidad\obj\Debug\sistema_contable01.Frm_libro_mayor_fecha.resources
+C:\Users\windo.DESKTOP-LUS547A\Documents\Visual Studio 2022\proyectos\Sistema_Contabilidad\Sistema_Contabilidad\obj\Debug\sistema_contable01.Frm_libro_mayor_b.resources
+C:\Users\windo.DESKTOP-LUS547A\Documents\Visual Studio 2022\proyectos\Sistema_Contabilidad\Sistema_Contabilidad\obj\Debug\sistema_contable01.Frm_login.resources
+C:\Users\windo.DESKTOP-LUS547A\Documents\Visual Studio 2022\proyectos\Sistema_Contabilidad\Sistema_Contabilidad\obj\Debug\sistema_contable01.frm_loginn1.resources
+C:\Users\windo.DESKTOP-LUS547A\Documents\Visual Studio 2022\proyectos\Sistema_Contabilidad\Sistema_Contabilidad\obj\Debug\sistema_contable01.Frm_reportes.resources
+C:\Users\windo.DESKTOP-LUS547A\Documents\Visual Studio 2022\proyectos\Sistema_Contabilidad\Sistema_Contabilidad\obj\Debug\sistema_contable01.Frm_report_asiento_fecha.resources
+C:\Users\windo.DESKTOP-LUS547A\Documents\Visual Studio 2022\proyectos\Sistema_Contabilidad\Sistema_Contabilidad\obj\Debug\sistema_contable01.Frm_sumas_saldos.resources
+C:\Users\windo.DESKTOP-LUS547A\Documents\Visual Studio 2022\proyectos\Sistema_Contabilidad\Sistema_Contabilidad\obj\Debug\sistema_contable01.Frm_usuario.resources
+C:\Users\windo.DESKTOP-LUS547A\Documents\Visual Studio 2022\proyectos\Sistema_Contabilidad\Sistema_Contabilidad\obj\Debug\sistema_contable01.Properties.Resources.resources
+C:\Users\windo.DESKTOP-LUS547A\Documents\Visual Studio 2022\proyectos\Sistema_Contabilidad\Sistema_Contabilidad\obj\Debug\Sistema_Contabilidad.csproj.GenerateResource.cache
+C:\Users\windo.DESKTOP-LUS547A\Documents\Visual Studio 2022\proyectos\Sistema_Contabilidad\Sistema_Contabilidad\obj\Debug\Sistema_Contabilidad.csproj.CoreCompileInputs.cache
+C:\Users\windo.DESKTOP-LUS547A\Documents\Visual Studio 2022\proyectos\Sistema_Contabilidad\Sistema_Contabilidad\obj\Debug\Sistema_Contabilidad.csproj.CopyComplete
+C:\Users\windo.DESKTOP-LUS547A\Documents\Visual Studio 2022\proyectos\Sistema_Contabilidad\Sistema_Contabilidad\obj\Debug\sistema_contable01.exe
+C:\Users\windo.DESKTOP-LUS547A\Documents\Visual Studio 2022\proyectos\Sistema_Contabilidad\Sistema_Contabilidad\obj\Debug\sistema_contable01.pdb
+C:\Users\windo.DESKTOP-LUS547A\Documents\Visual Studio 2022\proyectos\Sistema_Contabilidad\Sistema_Contabilidad\obj\Debug\sistema_contable01.newReport.resources
+C:\Users\windo.DESKTOP-LUS547A\Documents\Visual Studio 2022\proyectos\Sistema_Contabilidad\Sistema_Contabilidad\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\windo.DESKTOP-LUS547A\Documents\Visual Studio 2022\proyectos\Sistema_Contabilidad\Sistema_Contabilidad\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\windo.DESKTOP-LUS547A\Documents\Visual Studio 2022\proyectos\Sistema_Contabilidad\Sistema_Contabilidad\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\windo.DESKTOP-LUS547A\Documents\Visual Studio 2022\proyectos\Sistema_Contabilidad\Sistema_Contabilidad\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\windo.DESKTOP-LUS547A\Documents\Visual Studio 2022\proyectos\Sistema_Contabilidad\Sistema_Contabilidad\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\windo.DESKTOP-LUS547A\Documents\Visual Studio 2022\proyectos\Sistema_Contabilidad\Sistema_Contabilidad\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\windo.DESKTOP-LUS547A\Documents\Visual Studio 2022\proyectos\Sistema_Contabilidad\Sistema_Contabilidad\bin\Debug\EnvDTE.dll
+C:\Users\windo.DESKTOP-LUS547A\Documents\Visual Studio 2022\proyectos\Sistema_Contabilidad\Sistema_Contabilidad\bin\Debug\stdole.dll
+C:\Users\windo.DESKTOP-LUS547A\Documents\Visual Studio 2022\proyectos\Sistema_Contabilidad\Sistema_Contabilidad\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\windo.DESKTOP-LUS547A\Documents\Visual Studio 2022\proyectos\Sistema_Contabilidad\Sistema_Contabilidad\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\windo.DESKTOP-LUS547A\Documents\Visual Studio 2022\proyectos\Sistema_Contabilidad\Sistema_Contabilidad\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\windo.DESKTOP-LUS547A\Documents\Visual Studio 2022\proyectos\Sistema_Contabilidad\Sistema_Contabilidad\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\windo.DESKTOP-LUS547A\Documents\Visual Studio 2022\proyectos\Sistema_Contabilidad\Sistema_Contabilidad\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\windo.DESKTOP-LUS547A\Documents\Visual Studio 2022\proyectos\Sistema_Contabilidad\Sistema_Contabilidad\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\windo.DESKTOP-LUS547A\Documents\Visual Studio 2022\proyectos\Sistema_Contabilidad\Sistema_Contabilidad\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\windo.DESKTOP-LUS547A\Documents\Visual Studio 2022\proyectos\Sistema_Contabilidad\Sistema_Contabilidad\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\windo.DESKTOP-LUS547A\Documents\Visual Studio 2022\proyectos\Sistema_Contabilidad\Sistema_Contabilidad\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\windo.DESKTOP-LUS547A\Documents\Visual Studio 2022\proyectos\Sistema_Contabilidad\Sistema_Contabilidad\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\windo.DESKTOP-LUS547A\Documents\Visual Studio 2022\proyectos\Sistema_Contabilidad\Sistema_Contabilidad\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\windo.DESKTOP-LUS547A\Documents\Visual Studio 2022\proyectos\Sistema_Contabilidad\Sistema_Contabilidad\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\windo.DESKTOP-LUS547A\Documents\Visual Studio 2022\proyectos\Sistema_Contabilidad\Sistema_Contabilidad\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\windo.DESKTOP-LUS547A\Documents\Visual Studio 2022\proyectos\Sistema_Contabilidad\Sistema_Contabilidad\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\windo.DESKTOP-LUS547A\Documents\Visual Studio 2022\proyectos\Sistema_Contabilidad\Sistema_Contabilidad\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\windo.DESKTOP-LUS547A\Documents\Visual Studio 2022\proyectos\Sistema_Contabilidad\Sistema_Contabilidad\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\windo.DESKTOP-LUS547A\Documents\Visual Studio 2022\proyectos\Sistema_Contabilidad\Sistema_Contabilidad\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\windo.DESKTOP-LUS547A\Documents\Visual Studio 2022\proyectos\Sistema_Contabilidad\Sistema_Contabilidad\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\windo.DESKTOP-LUS547A\Documents\Visual Studio 2022\proyectos\Sistema_Contabilidad\Sistema_Contabilidad\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\windo.DESKTOP-LUS547A\Documents\Visual Studio 2022\proyectos\Sistema_Contabilidad\Sistema_Contabilidad\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\windo.DESKTOP-LUS547A\Documents\Visual Studio 2022\proyectos\Sistema_Contabilidad\Sistema_Contabilidad\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\windo.DESKTOP-LUS547A\Documents\Visual Studio 2022\proyectos\Sistema_Contabilidad\Sistema_Contabilidad\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\windo.DESKTOP-LUS547A\Documents\Visual Studio 2022\proyectos\Sistema_Contabilidad\Sistema_Contabilidad\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\windo.DESKTOP-LUS547A\Documents\Visual Studio 2022\proyectos\Sistema_Contabilidad\Sistema_Contabilidad\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\windo.DESKTOP-LUS547A\Documents\Visual Studio 2022\proyectos\Sistema_Contabilidad\Sistema_Contabilidad\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\windo.DESKTOP-LUS547A\Documents\Visual Studio 2022\proyectos\Sistema_Contabilidad\Sistema_Contabilidad\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\windo.DESKTOP-LUS547A\Documents\Visual Studio 2022\proyectos\Sistema_Contabilidad\Sistema_Contabilidad\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\windo.DESKTOP-LUS547A\Documents\Visual Studio 2022\proyectos\Sistema_Contabilidad\Sistema_Contabilidad\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\windo.DESKTOP-LUS547A\Documents\Visual Studio 2022\proyectos\Sistema_Contabilidad\Sistema_Contabilidad\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\windo.DESKTOP-LUS547A\Documents\Visual Studio 2022\proyectos\Sistema_Contabilidad\Sistema_Contabilidad\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\windo.DESKTOP-LUS547A\Documents\Visual Studio 2022\proyectos\Sistema_Contabilidad\Sistema_Contabilidad\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\windo.DESKTOP-LUS547A\Documents\Visual Studio 2022\proyectos\Sistema_Contabilidad\Sistema_Contabilidad\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\windo.DESKTOP-LUS547A\Documents\Visual Studio 2022\proyectos\Sistema_Contabilidad\Sistema_Contabilidad\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\windo.DESKTOP-LUS547A\Documents\Visual Studio 2022\proyectos\Sistema_Contabilidad\Sistema_Contabilidad\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\windo.DESKTOP-LUS547A\Documents\Visual Studio 2022\proyectos\Sistema_Contabilidad\Sistema_Contabilidad\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\windo.DESKTOP-LUS547A\Documents\Visual Studio 2022\proyectos\Sistema_Contabilidad\Sistema_Contabilidad\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\windo.DESKTOP-LUS547A\Documents\Visual Studio 2022\proyectos\Sistema_Contabilidad\Sistema_Contabilidad\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\windo.DESKTOP-LUS547A\Documents\Visual Studio 2022\proyectos\Sistema_Contabilidad\Sistema_Contabilidad\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\windo.DESKTOP-LUS547A\Documents\Visual Studio 2022\proyectos\Sistema_Contabilidad\Sistema_Contabilidad\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\windo.DESKTOP-LUS547A\Documents\Visual Studio 2022\proyectos\Sistema_Contabilidad\Sistema_Contabilidad\bin\Debug\capa_negocio.dll.config
+C:\Users\windo.DESKTOP-LUS547A\Documents\Visual Studio 2022\proyectos\Sistema_Contabilidad\Sistema_Contabilidad\bin\Debug\Database1prueba.mdf
+C:\Users\windo.DESKTOP-LUS547A\Documents\Visual Studio 2022\proyectos\Sistema_Contabilidad\Sistema_Contabilidad\bin\Debug\Database1prueba_log.ldf
+C:\Users\windo.DESKTOP-LUS547A\Documents\Visual Studio 2022\proyectos\Sistema_Contabilidad\Sistema_Contabilidad\bin\Debug\sistema_contable01.exe.manifest
+C:\Users\windo.DESKTOP-LUS547A\Documents\Visual Studio 2022\proyectos\Sistema_Contabilidad\Sistema_Contabilidad\bin\Debug\sistema_contable01.application
+C:\Users\windo.DESKTOP-LUS547A\Documents\Visual Studio 2022\proyectos\Sistema_Contabilidad\Sistema_Contabilidad\obj\Debug\sistema_contable01.exe.manifest
+C:\Users\windo.DESKTOP-LUS547A\Documents\Visual Studio 2022\proyectos\Sistema_Contabilidad\Sistema_Contabilidad\obj\Debug\sistema_contable01.application

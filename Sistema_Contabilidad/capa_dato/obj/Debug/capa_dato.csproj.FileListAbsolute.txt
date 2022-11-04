@@ -1,0 +1,84 @@
+c:\users\alexander\documents\visual studio 2015\Projects\sistema_contable01\capa_dato\bin\Debug\capa_dato.dll
+c:\users\alexander\documents\visual studio 2015\Projects\sistema_contable01\capa_dato\bin\Debug\capa_dato.pdb
+c:\users\alexander\documents\visual studio 2015\Projects\sistema_contable01\capa_dato\obj\Debug\capa_dato.csprojResolveAssemblyReference.cache
+c:\users\alexander\documents\visual studio 2015\Projects\sistema_contable01\capa_dato\obj\Debug\capa_dato.dll
+c:\users\alexander\documents\visual studio 2015\Projects\sistema_contable01\capa_dato\obj\Debug\capa_dato.pdb
+C:\Users\USUARIO\Downloads\Telegram Desktop\proyecto sistema cotable\sistema_contable01\capa_dato\bin\Debug\capa_dato.dll
+C:\Users\USUARIO\Downloads\Telegram Desktop\proyecto sistema cotable\sistema_contable01\capa_dato\bin\Debug\capa_dato.pdb
+C:\Users\USUARIO\Downloads\Telegram Desktop\proyecto sistema cotable\sistema_contable01\capa_dato\obj\Debug\capa_dato.csprojResolveAssemblyReference.cache
+C:\Users\USUARIO\Downloads\Telegram Desktop\proyecto sistema cotable\sistema_contable01\capa_dato\obj\Debug\capa_dato.dll
+C:\Users\USUARIO\Downloads\Telegram Desktop\proyecto sistema cotable\sistema_contable01\capa_dato\obj\Debug\capa_dato.pdb
+C:\Users\Shini\Desktop\proyecto sistema cotable\sistema_contable01\capa_dato\bin\Debug\capa_dato.dll
+C:\Users\Shini\Desktop\proyecto sistema cotable\sistema_contable01\capa_dato\bin\Debug\capa_dato.pdb
+C:\Users\Shini\Desktop\proyecto sistema cotable\sistema_contable01\capa_dato\obj\Debug\capa_dato.csprojResolveAssemblyReference.cache
+C:\Users\Shini\Desktop\proyecto sistema cotable\sistema_contable01\capa_dato\obj\Debug\capa_dato.dll
+C:\Users\Shini\Desktop\proyecto sistema cotable\sistema_contable01\capa_dato\obj\Debug\capa_dato.pdb
+C:\Users\USUARIO\Desktop\Software II Pro\proyecto sistema cotable\sistema_contable01\capa_dato\bin\Debug\capa_dato.dll
+C:\Users\USUARIO\Desktop\Software II Pro\proyecto sistema cotable\sistema_contable01\capa_dato\bin\Debug\capa_dato.pdb
+C:\Users\USUARIO\Desktop\Software II Pro\proyecto sistema cotable\sistema_contable01\capa_dato\obj\Debug\capa_dato.csprojResolveAssemblyReference.cache
+C:\Users\USUARIO\Desktop\Software II Pro\proyecto sistema cotable\sistema_contable01\capa_dato\obj\Debug\capa_dato.dll
+C:\Users\USUARIO\Desktop\Software II Pro\proyecto sistema cotable\sistema_contable01\capa_dato\obj\Debug\capa_dato.pdb
+D:\SISTEMAS DESARROLLADOS O DESCARGADOS\Sistema plan de cuentas sw2\proyecto sistema cotable\sistema_contable01\capa_dato\bin\Debug\capa_dato.dll
+D:\SISTEMAS DESARROLLADOS O DESCARGADOS\Sistema plan de cuentas sw2\proyecto sistema cotable\sistema_contable01\capa_dato\bin\Debug\capa_dato.pdb
+D:\SISTEMAS DESARROLLADOS O DESCARGADOS\Sistema plan de cuentas sw2\proyecto sistema cotable\sistema_contable01\capa_dato\obj\Debug\capa_dato.csprojResolveAssemblyReference.cache
+D:\SISTEMAS DESARROLLADOS O DESCARGADOS\Sistema plan de cuentas sw2\proyecto sistema cotable\sistema_contable01\capa_dato\obj\Debug\capa_dato.dll
+D:\SISTEMAS DESARROLLADOS O DESCARGADOS\Sistema plan de cuentas sw2\proyecto sistema cotable\sistema_contable01\capa_dato\obj\Debug\capa_dato.pdb
+D:\SISTEMAS DESARROLLADOS O DESCARGADOS\Sistema plan de cuentas sw2\proyecto sistema cotable\sistema_contable01\capa_dato\bin\Debug\capa_dato.dll.CodeAnalysisLog.xml
+D:\SISTEMAS DESARROLLADOS O DESCARGADOS\Sistema plan de cuentas sw2\proyecto sistema cotable\sistema_contable01\capa_dato\bin\Debug\capa_dato.dll.lastcodeanalysissucceeded
+C:\Users\Shini\Desktop\sistema_contable01\capa_dato\bin\Debug\capa_dato.dll
+C:\Users\Shini\Desktop\sistema_contable01\capa_dato\bin\Debug\capa_dato.pdb
+C:\Users\Shini\Desktop\sistema_contable01\capa_dato\obj\Debug\capa_dato.csprojResolveAssemblyReference.cache
+C:\Users\Shini\Desktop\sistema_contable01\capa_dato\obj\Debug\capa_dato.dll
+C:\Users\Shini\Desktop\sistema_contable01\capa_dato\obj\Debug\capa_dato.pdb
+D:\SISTEMAS DESARROLLADOS O DESCARGADOS\sistema_contable01 F\capa_dato\bin\Debug\capa_dato.dll
+D:\SISTEMAS DESARROLLADOS O DESCARGADOS\sistema_contable01 F\capa_dato\bin\Debug\capa_dato.pdb
+D:\SISTEMAS DESARROLLADOS O DESCARGADOS\sistema_contable01 F\capa_dato\obj\Debug\capa_dato.dll
+D:\SISTEMAS DESARROLLADOS O DESCARGADOS\sistema_contable01 F\capa_dato\obj\Debug\capa_dato.pdb
+C:\Users\Shini\Desktop\sistema_contable01 F\capa_dato\bin\Debug\capa_dato.dll
+C:\Users\Shini\Desktop\sistema_contable01 F\capa_dato\bin\Debug\capa_dato.pdb
+C:\Users\Shini\Desktop\sistema_contable01 F\capa_dato\obj\Debug\capa_dato.csprojResolveAssemblyReference.cache
+C:\Users\Shini\Desktop\sistema_contable01 F\capa_dato\obj\Debug\capa_dato.dll
+C:\Users\Shini\Desktop\sistema_contable01 F\capa_dato\obj\Debug\capa_dato.pdb
+D:\pasado\sistema_contable01 F\capa_dato\bin\Debug\capa_dato.dll
+D:\pasado\sistema_contable01 F\capa_dato\bin\Debug\capa_dato.pdb
+D:\pasado\sistema_contable01 F\capa_dato\obj\Debug\capa_dato.csprojResolveAssemblyReference.cache
+D:\pasado\sistema_contable01 F\capa_dato\obj\Debug\capa_dato.dll
+D:\pasado\sistema_contable01 F\capa_dato\obj\Debug\capa_dato.pdb
+K:\Peli\sistema contable\sistema_contable01 F\capa_dato\bin\Debug\capa_dato.dll
+K:\Peli\sistema contable\sistema_contable01 F\capa_dato\bin\Debug\capa_dato.pdb
+K:\Peli\sistema contable\sistema_contable01 F\capa_dato\obj\Debug\capa_dato.csprojResolveAssemblyReference.cache
+K:\Peli\sistema contable\sistema_contable01 F\capa_dato\obj\Debug\capa_dato.dll
+K:\Peli\sistema contable\sistema_contable01 F\capa_dato\obj\Debug\capa_dato.pdb
+C:\Users\ALEXANDER\Downloads\para seer reportes\sistema_conta\sistema_contable01 Fu\capa_dato\bin\Debug\capa_dato.dll
+C:\Users\ALEXANDER\Downloads\para seer reportes\sistema_conta\sistema_contable01 Fu\capa_dato\bin\Debug\capa_dato.pdb
+C:\Users\ALEXANDER\Downloads\para seer reportes\sistema_conta\sistema_contable01 Fu\capa_dato\obj\Debug\capa_dato.csprojResolveAssemblyReference.cache
+C:\Users\ALEXANDER\Downloads\para seer reportes\sistema_conta\sistema_contable01 Fu\capa_dato\obj\Debug\capa_dato.dll
+C:\Users\ALEXANDER\Downloads\para seer reportes\sistema_conta\sistema_contable01 Fu\capa_dato\obj\Debug\capa_dato.pdb
+C:\Users\USUARIO\Desktop\sistem\sistema_contable01 Fu\capa_dato\bin\Debug\capa_dato.dll
+C:\Users\USUARIO\Desktop\sistem\sistema_contable01 Fu\capa_dato\bin\Debug\capa_dato.pdb
+C:\Users\USUARIO\Desktop\sistem\sistema_contable01 Fu\capa_dato\obj\Debug\capa_dato.csprojResolveAssemblyReference.cache
+C:\Users\USUARIO\Desktop\sistem\sistema_contable01 Fu\capa_dato\obj\Debug\capa_dato.dll
+C:\Users\USUARIO\Desktop\sistem\sistema_contable01 Fu\capa_dato\obj\Debug\capa_dato.pdb
+C:\Users\ALEXANDER\Downloads\Telegram Desktop\sistem\sistema_contable01 Fu\capa_dato\bin\Debug\capa_dato.dll
+C:\Users\ALEXANDER\Downloads\Telegram Desktop\sistem\sistema_contable01 Fu\capa_dato\bin\Debug\capa_dato.pdb
+C:\Users\ALEXANDER\Downloads\Telegram Desktop\sistem\sistema_contable01 Fu\capa_dato\obj\Debug\capa_dato.csprojResolveAssemblyReference.cache
+C:\Users\ALEXANDER\Downloads\Telegram Desktop\sistem\sistema_contable01 Fu\capa_dato\obj\Debug\capa_dato.dll
+C:\Users\ALEXANDER\Downloads\Telegram Desktop\sistem\sistema_contable01 Fu\capa_dato\obj\Debug\capa_dato.pdb
+C:\Users\windo.DESKTOP-LUS547A\Documents\Visual Studio 2019\proyectos\sistema contable en C# 0.1\Sistema_Contabilidad\capa_dato\bin\Debug\capa_dato.dll
+C:\Users\windo.DESKTOP-LUS547A\Documents\Visual Studio 2019\proyectos\sistema contable en C# 0.1\Sistema_Contabilidad\capa_dato\bin\Debug\capa_dato.pdb
+C:\Users\windo.DESKTOP-LUS547A\Documents\Visual Studio 2019\proyectos\sistema contable en C# 0.1\Sistema_Contabilidad\capa_dato\obj\Debug\capa_dato.csprojAssemblyReference.cache
+C:\Users\windo.DESKTOP-LUS547A\Documents\Visual Studio 2019\proyectos\sistema contable en C# 0.1\Sistema_Contabilidad\capa_dato\obj\Debug\capa_dato.csproj.CoreCompileInputs.cache
+C:\Users\windo.DESKTOP-LUS547A\Documents\Visual Studio 2019\proyectos\sistema contable en C# 0.1\Sistema_Contabilidad\capa_dato\obj\Debug\capa_dato.dll
+C:\Users\windo.DESKTOP-LUS547A\Documents\Visual Studio 2019\proyectos\sistema contable en C# 0.1\Sistema_Contabilidad\capa_dato\obj\Debug\capa_dato.pdb
+C:\Users\windo.DESKTOP-LUS547A\Documents\Visual Studio 2019\proyectos\Sistema_Contabilidad\capa_dato\bin\Debug\capa_dato.dll
+C:\Users\windo.DESKTOP-LUS547A\Documents\Visual Studio 2019\proyectos\Sistema_Contabilidad\capa_dato\bin\Debug\capa_dato.pdb
+C:\Users\windo.DESKTOP-LUS547A\Documents\Visual Studio 2019\proyectos\Sistema_Contabilidad\capa_dato\obj\Debug\capa_dato.csprojAssemblyReference.cache
+C:\Users\windo.DESKTOP-LUS547A\Documents\Visual Studio 2019\proyectos\Sistema_Contabilidad\capa_dato\obj\Debug\capa_dato.csproj.CoreCompileInputs.cache
+C:\Users\windo.DESKTOP-LUS547A\Documents\Visual Studio 2019\proyectos\Sistema_Contabilidad\capa_dato\obj\Debug\capa_dato.dll
+C:\Users\windo.DESKTOP-LUS547A\Documents\Visual Studio 2019\proyectos\Sistema_Contabilidad\capa_dato\obj\Debug\capa_dato.pdb
+C:\Users\windo.DESKTOP-LUS547A\Documents\Visual Studio 2022\proyectos\Sistema_Contabilidad\capa_dato\bin\Debug\capa_dato.dll
+C:\Users\windo.DESKTOP-LUS547A\Documents\Visual Studio 2022\proyectos\Sistema_Contabilidad\capa_dato\bin\Debug\capa_dato.pdb
+C:\Users\windo.DESKTOP-LUS547A\Documents\Visual Studio 2022\proyectos\Sistema_Contabilidad\capa_dato\obj\Debug\capa_dato.csproj.AssemblyReference.cache
+C:\Users\windo.DESKTOP-LUS547A\Documents\Visual Studio 2022\proyectos\Sistema_Contabilidad\capa_dato\obj\Debug\capa_dato.csproj.CoreCompileInputs.cache
+C:\Users\windo.DESKTOP-LUS547A\Documents\Visual Studio 2022\proyectos\Sistema_Contabilidad\capa_dato\obj\Debug\capa_dato.dll
+C:\Users\windo.DESKTOP-LUS547A\Documents\Visual Studio 2022\proyectos\Sistema_Contabilidad\capa_dato\obj\Debug\capa_dato.pdb

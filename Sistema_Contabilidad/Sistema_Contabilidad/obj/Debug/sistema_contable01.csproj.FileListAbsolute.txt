@@ -1,0 +1,462 @@
+c:\users\alexander\documents\visual studio 2015\Projects\sistema_contable01\sistema_contable01\bin\Debug\sistema_contable01.exe.config
+c:\users\alexander\documents\visual studio 2015\Projects\sistema_contable01\sistema_contable01\bin\Debug\sistema_contable01.exe
+c:\users\alexander\documents\visual studio 2015\Projects\sistema_contable01\sistema_contable01\bin\Debug\sistema_contable01.pdb
+c:\users\alexander\documents\visual studio 2015\Projects\sistema_contable01\sistema_contable01\obj\Debug\sistema_contable01.csprojResolveAssemblyReference.cache
+c:\users\alexander\documents\visual studio 2015\Projects\sistema_contable01\sistema_contable01\obj\Debug\sistema_contable01.Form1.resources
+c:\users\alexander\documents\visual studio 2015\Projects\sistema_contable01\sistema_contable01\obj\Debug\sistema_contable01.Properties.Resources.resources
+c:\users\alexander\documents\visual studio 2015\Projects\sistema_contable01\sistema_contable01\obj\Debug\sistema_contable01.csproj.GenerateResource.Cache
+c:\users\alexander\documents\visual studio 2015\Projects\sistema_contable01\sistema_contable01\obj\Debug\sistema_contable01.exe
+c:\users\alexander\documents\visual studio 2015\Projects\sistema_contable01\sistema_contable01\obj\Debug\sistema_contable01.pdb
+c:\users\alexander\documents\visual studio 2015\Projects\sistema_contable01\sistema_contable01\bin\Debug\capa_dato.dll
+c:\users\alexander\documents\visual studio 2015\Projects\sistema_contable01\sistema_contable01\bin\Debug\capa_negocio.dll
+c:\users\alexander\documents\visual studio 2015\Projects\sistema_contable01\sistema_contable01\bin\Debug\capa_dato.pdb
+c:\users\alexander\documents\visual studio 2015\Projects\sistema_contable01\sistema_contable01\bin\Debug\capa_negocio.pdb
+C:\Users\USUARIO\Downloads\Telegram Desktop\proyecto sistema cotable\sistema_contable01\sistema_contable01\bin\Debug\sistema_contable01.exe.config
+C:\Users\USUARIO\Downloads\Telegram Desktop\proyecto sistema cotable\sistema_contable01\sistema_contable01\bin\Debug\sistema_contable01.exe
+C:\Users\USUARIO\Downloads\Telegram Desktop\proyecto sistema cotable\sistema_contable01\sistema_contable01\bin\Debug\sistema_contable01.pdb
+C:\Users\USUARIO\Downloads\Telegram Desktop\proyecto sistema cotable\sistema_contable01\sistema_contable01\bin\Debug\capa_dato.dll
+C:\Users\USUARIO\Downloads\Telegram Desktop\proyecto sistema cotable\sistema_contable01\sistema_contable01\bin\Debug\capa_negocio.dll
+C:\Users\USUARIO\Downloads\Telegram Desktop\proyecto sistema cotable\sistema_contable01\sistema_contable01\bin\Debug\capa_dato.pdb
+C:\Users\USUARIO\Downloads\Telegram Desktop\proyecto sistema cotable\sistema_contable01\sistema_contable01\bin\Debug\capa_negocio.pdb
+C:\Users\USUARIO\Downloads\Telegram Desktop\proyecto sistema cotable\sistema_contable01\sistema_contable01\obj\Debug\sistema_contable01.csprojResolveAssemblyReference.cache
+C:\Users\USUARIO\Downloads\Telegram Desktop\proyecto sistema cotable\sistema_contable01\sistema_contable01\obj\Debug\sistema_contable01.Form1.resources
+C:\Users\USUARIO\Downloads\Telegram Desktop\proyecto sistema cotable\sistema_contable01\sistema_contable01\obj\Debug\sistema_contable01.frmLibro.resources
+C:\Users\USUARIO\Downloads\Telegram Desktop\proyecto sistema cotable\sistema_contable01\sistema_contable01\obj\Debug\sistema_contable01.frmPlan_de_cuenta.resources
+C:\Users\USUARIO\Downloads\Telegram Desktop\proyecto sistema cotable\sistema_contable01\sistema_contable01\obj\Debug\sistema_contable01.Properties.Resources.resources
+C:\Users\USUARIO\Downloads\Telegram Desktop\proyecto sistema cotable\sistema_contable01\sistema_contable01\obj\Debug\sistema_contable01.csproj.GenerateResource.Cache
+C:\Users\USUARIO\Downloads\Telegram Desktop\proyecto sistema cotable\sistema_contable01\sistema_contable01\obj\Debug\sistema_contable01.exe
+C:\Users\USUARIO\Downloads\Telegram Desktop\proyecto sistema cotable\sistema_contable01\sistema_contable01\obj\Debug\sistema_contable01.pdb
+C:\Users\Shini\Desktop\proyecto sistema cotable\sistema_contable01\sistema_contable01\bin\Debug\sistema_contable01.exe.config
+C:\Users\Shini\Desktop\proyecto sistema cotable\sistema_contable01\sistema_contable01\bin\Debug\sistema_contable01.exe
+C:\Users\Shini\Desktop\proyecto sistema cotable\sistema_contable01\sistema_contable01\bin\Debug\sistema_contable01.pdb
+C:\Users\Shini\Desktop\proyecto sistema cotable\sistema_contable01\sistema_contable01\bin\Debug\capa_dato.dll
+C:\Users\Shini\Desktop\proyecto sistema cotable\sistema_contable01\sistema_contable01\bin\Debug\capa_negocio.dll
+C:\Users\Shini\Desktop\proyecto sistema cotable\sistema_contable01\sistema_contable01\bin\Debug\capa_dato.pdb
+C:\Users\Shini\Desktop\proyecto sistema cotable\sistema_contable01\sistema_contable01\bin\Debug\capa_negocio.pdb
+C:\Users\Shini\Desktop\proyecto sistema cotable\sistema_contable01\sistema_contable01\obj\Debug\sistema_contable01.csprojResolveAssemblyReference.cache
+C:\Users\Shini\Desktop\proyecto sistema cotable\sistema_contable01\sistema_contable01\obj\Debug\sistema_contable01.Form1.resources
+C:\Users\Shini\Desktop\proyecto sistema cotable\sistema_contable01\sistema_contable01\obj\Debug\sistema_contable01.frmLibro.resources
+C:\Users\Shini\Desktop\proyecto sistema cotable\sistema_contable01\sistema_contable01\obj\Debug\sistema_contable01.frmPlan_de_cuenta.resources
+C:\Users\Shini\Desktop\proyecto sistema cotable\sistema_contable01\sistema_contable01\obj\Debug\sistema_contable01.Properties.Resources.resources
+C:\Users\Shini\Desktop\proyecto sistema cotable\sistema_contable01\sistema_contable01\obj\Debug\sistema_contable01.csproj.GenerateResource.Cache
+C:\Users\Shini\Desktop\proyecto sistema cotable\sistema_contable01\sistema_contable01\obj\Debug\sistema_contable01.exe
+C:\Users\Shini\Desktop\proyecto sistema cotable\sistema_contable01\sistema_contable01\obj\Debug\sistema_contable01.pdb
+C:\Users\USUARIO\Desktop\Software II Pro\proyecto sistema cotable\sistema_contable01\sistema_contable01\bin\Debug\sistema_contable01.exe.config
+C:\Users\USUARIO\Desktop\Software II Pro\proyecto sistema cotable\sistema_contable01\sistema_contable01\obj\Debug\sistema_contable01.exe
+C:\Users\USUARIO\Desktop\Software II Pro\proyecto sistema cotable\sistema_contable01\sistema_contable01\obj\Debug\sistema_contable01.pdb
+C:\Users\USUARIO\Desktop\Software II Pro\proyecto sistema cotable\sistema_contable01\sistema_contable01\bin\Debug\sistema_contable01.exe
+C:\Users\USUARIO\Desktop\Software II Pro\proyecto sistema cotable\sistema_contable01\sistema_contable01\bin\Debug\sistema_contable01.pdb
+C:\Users\USUARIO\Desktop\Software II Pro\proyecto sistema cotable\sistema_contable01\sistema_contable01\bin\Debug\capa_dato.dll
+C:\Users\USUARIO\Desktop\Software II Pro\proyecto sistema cotable\sistema_contable01\sistema_contable01\bin\Debug\capa_negocio.dll
+C:\Users\USUARIO\Desktop\Software II Pro\proyecto sistema cotable\sistema_contable01\sistema_contable01\bin\Debug\capa_dato.pdb
+C:\Users\USUARIO\Desktop\Software II Pro\proyecto sistema cotable\sistema_contable01\sistema_contable01\bin\Debug\capa_negocio.pdb
+C:\Users\USUARIO\Desktop\Software II Pro\proyecto sistema cotable\sistema_contable01\sistema_contable01\obj\Debug\sistema_contable01.csprojResolveAssemblyReference.cache
+C:\Users\USUARIO\Desktop\Software II Pro\proyecto sistema cotable\sistema_contable01\sistema_contable01\obj\Debug\sistema_contable01.Form1.resources
+C:\Users\USUARIO\Desktop\Software II Pro\proyecto sistema cotable\sistema_contable01\sistema_contable01\obj\Debug\sistema_contable01.frmLibro.resources
+C:\Users\USUARIO\Desktop\Software II Pro\proyecto sistema cotable\sistema_contable01\sistema_contable01\obj\Debug\sistema_contable01.frmPlan_de_cuenta.resources
+C:\Users\USUARIO\Desktop\Software II Pro\proyecto sistema cotable\sistema_contable01\sistema_contable01\obj\Debug\sistema_contable01.Properties.Resources.resources
+C:\Users\USUARIO\Desktop\Software II Pro\proyecto sistema cotable\sistema_contable01\sistema_contable01\obj\Debug\sistema_contable01.csproj.GenerateResource.Cache
+C:\Users\USUARIO\Desktop\Software II Pro\proyecto sistema cotable\sistema_contable01\sistema_contable01\obj\Debug\sistema_contable01.frm_asiento.resources
+D:\SISTEMAS DESARROLLADOS O DESCARGADOS\Sistema plan de cuentas sw2\proyecto sistema cotable\sistema_contable01\sistema_contable01\bin\Debug\sistema_contable01.exe.config
+D:\SISTEMAS DESARROLLADOS O DESCARGADOS\Sistema plan de cuentas sw2\proyecto sistema cotable\sistema_contable01\sistema_contable01\obj\Debug\sistema_contable01.exe
+D:\SISTEMAS DESARROLLADOS O DESCARGADOS\Sistema plan de cuentas sw2\proyecto sistema cotable\sistema_contable01\sistema_contable01\obj\Debug\sistema_contable01.pdb
+D:\SISTEMAS DESARROLLADOS O DESCARGADOS\Sistema plan de cuentas sw2\proyecto sistema cotable\sistema_contable01\sistema_contable01\bin\Debug\sistema_contable01.exe
+D:\SISTEMAS DESARROLLADOS O DESCARGADOS\Sistema plan de cuentas sw2\proyecto sistema cotable\sistema_contable01\sistema_contable01\bin\Debug\sistema_contable01.pdb
+D:\SISTEMAS DESARROLLADOS O DESCARGADOS\Sistema plan de cuentas sw2\proyecto sistema cotable\sistema_contable01\sistema_contable01\bin\Debug\capa_dato.dll
+D:\SISTEMAS DESARROLLADOS O DESCARGADOS\Sistema plan de cuentas sw2\proyecto sistema cotable\sistema_contable01\sistema_contable01\bin\Debug\capa_negocio.dll
+D:\SISTEMAS DESARROLLADOS O DESCARGADOS\Sistema plan de cuentas sw2\proyecto sistema cotable\sistema_contable01\sistema_contable01\bin\Debug\capa_dato.pdb
+D:\SISTEMAS DESARROLLADOS O DESCARGADOS\Sistema plan de cuentas sw2\proyecto sistema cotable\sistema_contable01\sistema_contable01\bin\Debug\capa_negocio.pdb
+D:\SISTEMAS DESARROLLADOS O DESCARGADOS\Sistema plan de cuentas sw2\proyecto sistema cotable\sistema_contable01\sistema_contable01\obj\Debug\sistema_contable01.csprojResolveAssemblyReference.cache
+D:\SISTEMAS DESARROLLADOS O DESCARGADOS\Sistema plan de cuentas sw2\proyecto sistema cotable\sistema_contable01\sistema_contable01\obj\Debug\sistema_contable01.frmLibro.resources
+D:\SISTEMAS DESARROLLADOS O DESCARGADOS\Sistema plan de cuentas sw2\proyecto sistema cotable\sistema_contable01\sistema_contable01\obj\Debug\sistema_contable01.frmPlan_de_cuenta.resources
+D:\SISTEMAS DESARROLLADOS O DESCARGADOS\Sistema plan de cuentas sw2\proyecto sistema cotable\sistema_contable01\sistema_contable01\obj\Debug\sistema_contable01.frm_asiento.resources
+D:\SISTEMAS DESARROLLADOS O DESCARGADOS\Sistema plan de cuentas sw2\proyecto sistema cotable\sistema_contable01\sistema_contable01\obj\Debug\sistema_contable01.Properties.Resources.resources
+D:\SISTEMAS DESARROLLADOS O DESCARGADOS\Sistema plan de cuentas sw2\proyecto sistema cotable\sistema_contable01\sistema_contable01\obj\Debug\sistema_contable01.csproj.GenerateResource.Cache
+D:\SISTEMAS DESARROLLADOS O DESCARGADOS\Sistema plan de cuentas sw2\proyecto sistema cotable\sistema_contable01\sistema_contable01\obj\Debug\sistema_contable01.Frm_imp_libro_report.resources
+D:\SISTEMAS DESARROLLADOS O DESCARGADOS\Sistema plan de cuentas sw2\proyecto sistema cotable\sistema_contable01\sistema_contable01\obj\Debug\RdlCompile.cache
+D:\SISTEMAS DESARROLLADOS O DESCARGADOS\Sistema plan de cuentas sw2\proyecto sistema cotable\sistema_contable01\sistema_contable01\obj\Debug\RdlCompile.compiled
+D:\SISTEMAS DESARROLLADOS O DESCARGADOS\Sistema plan de cuentas sw2\proyecto sistema cotable\sistema_contable01\sistema_contable01\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\SISTEMAS DESARROLLADOS O DESCARGADOS\Sistema plan de cuentas sw2\proyecto sistema cotable\sistema_contable01\sistema_contable01\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\SISTEMAS DESARROLLADOS O DESCARGADOS\Sistema plan de cuentas sw2\proyecto sistema cotable\sistema_contable01\sistema_contable01\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\SISTEMAS DESARROLLADOS O DESCARGADOS\Sistema plan de cuentas sw2\proyecto sistema cotable\sistema_contable01\sistema_contable01\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+D:\SISTEMAS DESARROLLADOS O DESCARGADOS\Sistema plan de cuentas sw2\proyecto sistema cotable\sistema_contable01\sistema_contable01\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+D:\SISTEMAS DESARROLLADOS O DESCARGADOS\Sistema plan de cuentas sw2\proyecto sistema cotable\sistema_contable01\sistema_contable01\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+D:\SISTEMAS DESARROLLADOS O DESCARGADOS\Sistema plan de cuentas sw2\proyecto sistema cotable\sistema_contable01\sistema_contable01\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+D:\SISTEMAS DESARROLLADOS O DESCARGADOS\Sistema plan de cuentas sw2\proyecto sistema cotable\sistema_contable01\sistema_contable01\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+D:\SISTEMAS DESARROLLADOS O DESCARGADOS\Sistema plan de cuentas sw2\proyecto sistema cotable\sistema_contable01\sistema_contable01\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+D:\SISTEMAS DESARROLLADOS O DESCARGADOS\Sistema plan de cuentas sw2\proyecto sistema cotable\sistema_contable01\sistema_contable01\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+D:\SISTEMAS DESARROLLADOS O DESCARGADOS\Sistema plan de cuentas sw2\proyecto sistema cotable\sistema_contable01\sistema_contable01\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+D:\SISTEMAS DESARROLLADOS O DESCARGADOS\Sistema plan de cuentas sw2\proyecto sistema cotable\sistema_contable01\sistema_contable01\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+D:\SISTEMAS DESARROLLADOS O DESCARGADOS\Sistema plan de cuentas sw2\proyecto sistema cotable\sistema_contable01\sistema_contable01\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+D:\SISTEMAS DESARROLLADOS O DESCARGADOS\Sistema plan de cuentas sw2\proyecto sistema cotable\sistema_contable01\sistema_contable01\obj\Debug\sistema_contable01.Frm_report_asiento_fecha.resources
+D:\SISTEMAS DESARROLLADOS O DESCARGADOS\Sistema plan de cuentas sw2\proyecto sistema cotable\sistema_contable01\sistema_contable01\obj\Debug\sistema_contable01.Frm_login.resources
+D:\SISTEMAS DESARROLLADOS O DESCARGADOS\Sistema plan de cuentas sw2\proyecto sistema cotable\sistema_contable01\sistema_contable01\obj\Debug\sistema_contable01.frmPrincipal.resources
+D:\SISTEMAS DESARROLLADOS O DESCARGADOS\Sistema plan de cuentas sw2\proyecto sistema cotable\sistema_contable01\sistema_contable01\obj\Debug\sistema_contable01.Frm_usuario.resources
+C:\Users\Shini\Desktop\sistema_contable01\sistema_contable01\bin\Debug\sistema_contable01.exe.config
+C:\Users\Shini\Desktop\sistema_contable01\sistema_contable01\obj\Debug\sistema_contable01.exe
+C:\Users\Shini\Desktop\sistema_contable01\sistema_contable01\obj\Debug\sistema_contable01.pdb
+C:\Users\Shini\Desktop\sistema_contable01\sistema_contable01\bin\Debug\sistema_contable01.exe
+C:\Users\Shini\Desktop\sistema_contable01\sistema_contable01\bin\Debug\sistema_contable01.pdb
+C:\Users\Shini\Desktop\sistema_contable01\sistema_contable01\bin\Debug\capa_dato.dll
+C:\Users\Shini\Desktop\sistema_contable01\sistema_contable01\bin\Debug\capa_negocio.dll
+C:\Users\Shini\Desktop\sistema_contable01\sistema_contable01\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Shini\Desktop\sistema_contable01\sistema_contable01\bin\Debug\capa_dato.pdb
+C:\Users\Shini\Desktop\sistema_contable01\sistema_contable01\bin\Debug\capa_negocio.pdb
+C:\Users\Shini\Desktop\sistema_contable01\sistema_contable01\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Shini\Desktop\sistema_contable01\sistema_contable01\obj\Debug\sistema_contable01.csprojResolveAssemblyReference.cache
+C:\Users\Shini\Desktop\sistema_contable01\sistema_contable01\obj\Debug\sistema_contable01.frmPrincipal.resources
+C:\Users\Shini\Desktop\sistema_contable01\sistema_contable01\obj\Debug\sistema_contable01.frmLibro.resources
+C:\Users\Shini\Desktop\sistema_contable01\sistema_contable01\obj\Debug\sistema_contable01.frmPlan_de_cuenta.resources
+C:\Users\Shini\Desktop\sistema_contable01\sistema_contable01\obj\Debug\sistema_contable01.frm_asiento.resources
+C:\Users\Shini\Desktop\sistema_contable01\sistema_contable01\obj\Debug\sistema_contable01.Frm_imp_libro_report.resources
+C:\Users\Shini\Desktop\sistema_contable01\sistema_contable01\obj\Debug\sistema_contable01.Frm_login.resources
+C:\Users\Shini\Desktop\sistema_contable01\sistema_contable01\obj\Debug\sistema_contable01.Frm_report_asiento_fecha.resources
+C:\Users\Shini\Desktop\sistema_contable01\sistema_contable01\obj\Debug\sistema_contable01.Frm_usuario.resources
+C:\Users\Shini\Desktop\sistema_contable01\sistema_contable01\obj\Debug\sistema_contable01.Properties.Resources.resources
+C:\Users\Shini\Desktop\sistema_contable01\sistema_contable01\obj\Debug\sistema_contable01.csproj.GenerateResource.Cache
+C:\Users\Shini\Desktop\sistema_contable01\sistema_contable01\obj\Debug\RdlCompile.cache
+C:\Users\Shini\Desktop\sistema_contable01\sistema_contable01\obj\Debug\RdlCompile.compiled
+C:\Users\Shini\Desktop\Software II Proyecto\sistema_contable01\sistema_contable01\bin\Debug\sistema_contable01.exe.config
+C:\Users\Shini\Desktop\Software II Proyecto\sistema_contable01\sistema_contable01\obj\Debug\sistema_contable01.exe
+C:\Users\Shini\Desktop\Software II Proyecto\sistema_contable01\sistema_contable01\obj\Debug\sistema_contable01.pdb
+C:\Users\Shini\Desktop\Software II Proyecto\sistema_contable01\sistema_contable01\bin\Debug\sistema_contable01.exe
+C:\Users\Shini\Desktop\Software II Proyecto\sistema_contable01\sistema_contable01\bin\Debug\sistema_contable01.pdb
+C:\Users\Shini\Desktop\Software II Proyecto\sistema_contable01\sistema_contable01\bin\Debug\capa_dato.dll
+C:\Users\Shini\Desktop\Software II Proyecto\sistema_contable01\sistema_contable01\bin\Debug\capa_negocio.dll
+C:\Users\Shini\Desktop\Software II Proyecto\sistema_contable01\sistema_contable01\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Shini\Desktop\Software II Proyecto\sistema_contable01\sistema_contable01\bin\Debug\capa_dato.pdb
+C:\Users\Shini\Desktop\Software II Proyecto\sistema_contable01\sistema_contable01\bin\Debug\capa_negocio.pdb
+C:\Users\Shini\Desktop\Software II Proyecto\sistema_contable01\sistema_contable01\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Shini\Desktop\Software II Proyecto\sistema_contable01\sistema_contable01\obj\Debug\sistema_contable01.csprojResolveAssemblyReference.cache
+C:\Users\Shini\Desktop\Software II Proyecto\sistema_contable01\sistema_contable01\obj\Debug\sistema_contable01.frmPrincipal.resources
+C:\Users\Shini\Desktop\Software II Proyecto\sistema_contable01\sistema_contable01\obj\Debug\sistema_contable01.frmLibro.resources
+C:\Users\Shini\Desktop\Software II Proyecto\sistema_contable01\sistema_contable01\obj\Debug\sistema_contable01.frmPlan_de_cuenta.resources
+C:\Users\Shini\Desktop\Software II Proyecto\sistema_contable01\sistema_contable01\obj\Debug\sistema_contable01.frm_asiento.resources
+C:\Users\Shini\Desktop\Software II Proyecto\sistema_contable01\sistema_contable01\obj\Debug\sistema_contable01.Frm_imp_libro_report.resources
+C:\Users\Shini\Desktop\Software II Proyecto\sistema_contable01\sistema_contable01\obj\Debug\sistema_contable01.Frm_login.resources
+C:\Users\Shini\Desktop\Software II Proyecto\sistema_contable01\sistema_contable01\obj\Debug\sistema_contable01.Frm_report_asiento_fecha.resources
+C:\Users\Shini\Desktop\Software II Proyecto\sistema_contable01\sistema_contable01\obj\Debug\sistema_contable01.Frm_usuario.resources
+C:\Users\Shini\Desktop\Software II Proyecto\sistema_contable01\sistema_contable01\obj\Debug\sistema_contable01.Properties.Resources.resources
+C:\Users\Shini\Desktop\Software II Proyecto\sistema_contable01\sistema_contable01\obj\Debug\sistema_contable01.csproj.GenerateResource.Cache
+C:\Users\Shini\Desktop\Software II Proyecto\sistema_contable01\sistema_contable01\obj\Debug\RdlCompile.cache
+C:\Users\Shini\Desktop\Software II Proyecto\sistema_contable01\sistema_contable01\obj\Debug\RdlCompile.compiled
+D:\SISTEMAS DESARROLLADOS O DESCARGADOS\sistema_contable01 F\sistema_contable01\bin\Debug\sistema_contable01.exe.config
+D:\SISTEMAS DESARROLLADOS O DESCARGADOS\sistema_contable01 F\sistema_contable01\obj\Debug\sistema_contable01.exe
+D:\SISTEMAS DESARROLLADOS O DESCARGADOS\sistema_contable01 F\sistema_contable01\obj\Debug\sistema_contable01.pdb
+D:\SISTEMAS DESARROLLADOS O DESCARGADOS\sistema_contable01 F\sistema_contable01\bin\Debug\sistema_contable01.exe
+D:\SISTEMAS DESARROLLADOS O DESCARGADOS\sistema_contable01 F\sistema_contable01\bin\Debug\sistema_contable01.pdb
+D:\SISTEMAS DESARROLLADOS O DESCARGADOS\sistema_contable01 F\sistema_contable01\bin\Debug\capa_dato.dll
+D:\SISTEMAS DESARROLLADOS O DESCARGADOS\sistema_contable01 F\sistema_contable01\bin\Debug\capa_negocio.dll
+D:\SISTEMAS DESARROLLADOS O DESCARGADOS\sistema_contable01 F\sistema_contable01\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\SISTEMAS DESARROLLADOS O DESCARGADOS\sistema_contable01 F\sistema_contable01\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\SISTEMAS DESARROLLADOS O DESCARGADOS\sistema_contable01 F\sistema_contable01\bin\Debug\capa_dato.pdb
+D:\SISTEMAS DESARROLLADOS O DESCARGADOS\sistema_contable01 F\sistema_contable01\bin\Debug\capa_negocio.pdb
+D:\SISTEMAS DESARROLLADOS O DESCARGADOS\sistema_contable01 F\sistema_contable01\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\SISTEMAS DESARROLLADOS O DESCARGADOS\sistema_contable01 F\sistema_contable01\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+D:\SISTEMAS DESARROLLADOS O DESCARGADOS\sistema_contable01 F\sistema_contable01\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+D:\SISTEMAS DESARROLLADOS O DESCARGADOS\sistema_contable01 F\sistema_contable01\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+D:\SISTEMAS DESARROLLADOS O DESCARGADOS\sistema_contable01 F\sistema_contable01\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+D:\SISTEMAS DESARROLLADOS O DESCARGADOS\sistema_contable01 F\sistema_contable01\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+D:\SISTEMAS DESARROLLADOS O DESCARGADOS\sistema_contable01 F\sistema_contable01\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+D:\SISTEMAS DESARROLLADOS O DESCARGADOS\sistema_contable01 F\sistema_contable01\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+D:\SISTEMAS DESARROLLADOS O DESCARGADOS\sistema_contable01 F\sistema_contable01\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+D:\SISTEMAS DESARROLLADOS O DESCARGADOS\sistema_contable01 F\sistema_contable01\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+D:\SISTEMAS DESARROLLADOS O DESCARGADOS\sistema_contable01 F\sistema_contable01\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+D:\SISTEMAS DESARROLLADOS O DESCARGADOS\sistema_contable01 F\sistema_contable01\obj\Debug\sistema_contable01.csprojResolveAssemblyReference.cache
+D:\SISTEMAS DESARROLLADOS O DESCARGADOS\sistema_contable01 F\sistema_contable01\obj\Debug\sistema_contable01.frmPrincipal.resources
+D:\SISTEMAS DESARROLLADOS O DESCARGADOS\sistema_contable01 F\sistema_contable01\obj\Debug\sistema_contable01.frmPlan_de_cuenta.resources
+D:\SISTEMAS DESARROLLADOS O DESCARGADOS\sistema_contable01 F\sistema_contable01\obj\Debug\sistema_contable01.FrmzBuscar_plan.resources
+D:\SISTEMAS DESARROLLADOS O DESCARGADOS\sistema_contable01 F\sistema_contable01\obj\Debug\sistema_contable01.frm_asiento.resources
+D:\SISTEMAS DESARROLLADOS O DESCARGADOS\sistema_contable01 F\sistema_contable01\obj\Debug\sistema_contable01.Frm_imp_libro_report.resources
+D:\SISTEMAS DESARROLLADOS O DESCARGADOS\sistema_contable01 F\sistema_contable01\obj\Debug\sistema_contable01.Frm_libro_mayor_fecha.resources
+D:\SISTEMAS DESARROLLADOS O DESCARGADOS\sistema_contable01 F\sistema_contable01\obj\Debug\sistema_contable01.Frm_libro_mayor_b.resources
+D:\SISTEMAS DESARROLLADOS O DESCARGADOS\sistema_contable01 F\sistema_contable01\obj\Debug\sistema_contable01.Frm_login.resources
+D:\SISTEMAS DESARROLLADOS O DESCARGADOS\sistema_contable01 F\sistema_contable01\obj\Debug\sistema_contable01.Frm_report_asiento_fecha.resources
+D:\SISTEMAS DESARROLLADOS O DESCARGADOS\sistema_contable01 F\sistema_contable01\obj\Debug\sistema_contable01.Frm_usuario.resources
+D:\SISTEMAS DESARROLLADOS O DESCARGADOS\sistema_contable01 F\sistema_contable01\obj\Debug\sistema_contable01.Properties.Resources.resources
+D:\SISTEMAS DESARROLLADOS O DESCARGADOS\sistema_contable01 F\sistema_contable01\obj\Debug\sistema_contable01.csproj.GenerateResource.Cache
+D:\SISTEMAS DESARROLLADOS O DESCARGADOS\sistema_contable01 F\sistema_contable01\obj\Debug\RdlCompile.cache
+D:\SISTEMAS DESARROLLADOS O DESCARGADOS\sistema_contable01 F\sistema_contable01\obj\Debug\RdlCompile.compiled
+D:\SISTEMAS DESARROLLADOS O DESCARGADOS\sistema_contable01 F\sistema_contable01\obj\Debug\sistema_contable01.Frm_reportes.resources
+D:\SISTEMAS DESARROLLADOS O DESCARGADOS\sistema_contable01 F\sistema_contable01\obj\Debug\sistema_contable01.Frm_sumas_saldos.resources
+C:\Users\Shini\Desktop\sistema_contable01 F\sistema_contable01\bin\Debug\sistema_contable01.exe.config
+C:\Users\Shini\Desktop\sistema_contable01 F\sistema_contable01\obj\Debug\sistema_contable01.exe
+C:\Users\Shini\Desktop\sistema_contable01 F\sistema_contable01\obj\Debug\sistema_contable01.pdb
+C:\Users\Shini\Desktop\sistema_contable01 F\sistema_contable01\bin\Debug\sistema_contable01.exe
+C:\Users\Shini\Desktop\sistema_contable01 F\sistema_contable01\bin\Debug\sistema_contable01.pdb
+C:\Users\Shini\Desktop\sistema_contable01 F\sistema_contable01\bin\Debug\capa_dato.dll
+C:\Users\Shini\Desktop\sistema_contable01 F\sistema_contable01\bin\Debug\capa_negocio.dll
+C:\Users\Shini\Desktop\sistema_contable01 F\sistema_contable01\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Shini\Desktop\sistema_contable01 F\sistema_contable01\bin\Debug\capa_dato.pdb
+C:\Users\Shini\Desktop\sistema_contable01 F\sistema_contable01\bin\Debug\capa_negocio.pdb
+C:\Users\Shini\Desktop\sistema_contable01 F\sistema_contable01\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Shini\Desktop\sistema_contable01 F\sistema_contable01\obj\Debug\sistema_contable01.csprojResolveAssemblyReference.cache
+C:\Users\Shini\Desktop\sistema_contable01 F\sistema_contable01\obj\Debug\sistema_contable01.frmPrincipal.resources
+C:\Users\Shini\Desktop\sistema_contable01 F\sistema_contable01\obj\Debug\sistema_contable01.frmPlan_de_cuenta.resources
+C:\Users\Shini\Desktop\sistema_contable01 F\sistema_contable01\obj\Debug\sistema_contable01.FrmzBuscar_plan.resources
+C:\Users\Shini\Desktop\sistema_contable01 F\sistema_contable01\obj\Debug\sistema_contable01.frm_asiento.resources
+C:\Users\Shini\Desktop\sistema_contable01 F\sistema_contable01\obj\Debug\sistema_contable01.Frm_imp_libro_report.resources
+C:\Users\Shini\Desktop\sistema_contable01 F\sistema_contable01\obj\Debug\sistema_contable01.Frm_libro_mayor_fecha.resources
+C:\Users\Shini\Desktop\sistema_contable01 F\sistema_contable01\obj\Debug\sistema_contable01.Frm_libro_mayor_b.resources
+C:\Users\Shini\Desktop\sistema_contable01 F\sistema_contable01\obj\Debug\sistema_contable01.Frm_login.resources
+C:\Users\Shini\Desktop\sistema_contable01 F\sistema_contable01\obj\Debug\sistema_contable01.Frm_reportes.resources
+C:\Users\Shini\Desktop\sistema_contable01 F\sistema_contable01\obj\Debug\sistema_contable01.Frm_report_asiento_fecha.resources
+C:\Users\Shini\Desktop\sistema_contable01 F\sistema_contable01\obj\Debug\sistema_contable01.Frm_sumas_saldos.resources
+C:\Users\Shini\Desktop\sistema_contable01 F\sistema_contable01\obj\Debug\sistema_contable01.Frm_usuario.resources
+C:\Users\Shini\Desktop\sistema_contable01 F\sistema_contable01\obj\Debug\sistema_contable01.Properties.Resources.resources
+C:\Users\Shini\Desktop\sistema_contable01 F\sistema_contable01\obj\Debug\sistema_contable01.csproj.GenerateResource.Cache
+C:\Users\Shini\Desktop\sistema_contable01 F\sistema_contable01\obj\Debug\RdlCompile.cache
+C:\Users\Shini\Desktop\sistema_contable01 F\sistema_contable01\obj\Debug\RdlCompile.compiled
+D:\pasado\sistema_contable01 F\sistema_contable01\bin\Debug\sistema_contable01.exe.config
+D:\pasado\sistema_contable01 F\sistema_contable01\obj\Debug\sistema_contable01.exe
+D:\pasado\sistema_contable01 F\sistema_contable01\obj\Debug\sistema_contable01.pdb
+D:\pasado\sistema_contable01 F\sistema_contable01\bin\Debug\sistema_contable01.exe
+D:\pasado\sistema_contable01 F\sistema_contable01\bin\Debug\sistema_contable01.pdb
+D:\pasado\sistema_contable01 F\sistema_contable01\bin\Debug\capa_dato.dll
+D:\pasado\sistema_contable01 F\sistema_contable01\bin\Debug\capa_negocio.dll
+D:\pasado\sistema_contable01 F\sistema_contable01\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\pasado\sistema_contable01 F\sistema_contable01\bin\Debug\capa_dato.pdb
+D:\pasado\sistema_contable01 F\sistema_contable01\bin\Debug\capa_negocio.pdb
+D:\pasado\sistema_contable01 F\sistema_contable01\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+D:\pasado\sistema_contable01 F\sistema_contable01\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+D:\pasado\sistema_contable01 F\sistema_contable01\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+D:\pasado\sistema_contable01 F\sistema_contable01\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+D:\pasado\sistema_contable01 F\sistema_contable01\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+D:\pasado\sistema_contable01 F\sistema_contable01\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+D:\pasado\sistema_contable01 F\sistema_contable01\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+D:\pasado\sistema_contable01 F\sistema_contable01\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+D:\pasado\sistema_contable01 F\sistema_contable01\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+D:\pasado\sistema_contable01 F\sistema_contable01\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+D:\pasado\sistema_contable01 F\sistema_contable01\obj\Debug\sistema_contable01.csprojResolveAssemblyReference.cache
+D:\pasado\sistema_contable01 F\sistema_contable01\obj\Debug\sistema_contable01.frmPrincipal.resources
+D:\pasado\sistema_contable01 F\sistema_contable01\obj\Debug\sistema_contable01.frmPlan_de_cuenta.resources
+D:\pasado\sistema_contable01 F\sistema_contable01\obj\Debug\sistema_contable01.FrmzBuscar_plan.resources
+D:\pasado\sistema_contable01 F\sistema_contable01\obj\Debug\sistema_contable01.frm_asiento.resources
+D:\pasado\sistema_contable01 F\sistema_contable01\obj\Debug\sistema_contable01.Frm_imp_libro_report.resources
+D:\pasado\sistema_contable01 F\sistema_contable01\obj\Debug\sistema_contable01.Frm_libro_mayor_fecha.resources
+D:\pasado\sistema_contable01 F\sistema_contable01\obj\Debug\sistema_contable01.Frm_libro_mayor_b.resources
+D:\pasado\sistema_contable01 F\sistema_contable01\obj\Debug\sistema_contable01.Frm_login.resources
+D:\pasado\sistema_contable01 F\sistema_contable01\obj\Debug\sistema_contable01.Frm_reportes.resources
+D:\pasado\sistema_contable01 F\sistema_contable01\obj\Debug\sistema_contable01.Frm_report_asiento_fecha.resources
+D:\pasado\sistema_contable01 F\sistema_contable01\obj\Debug\sistema_contable01.Frm_sumas_saldos.resources
+D:\pasado\sistema_contable01 F\sistema_contable01\obj\Debug\sistema_contable01.Frm_usuario.resources
+D:\pasado\sistema_contable01 F\sistema_contable01\obj\Debug\sistema_contable01.Properties.Resources.resources
+D:\pasado\sistema_contable01 F\sistema_contable01\obj\Debug\sistema_contable01.csproj.GenerateResource.Cache
+D:\pasado\sistema_contable01 F\sistema_contable01\bin\Debug\Bunifu_UI_v1.5.3.dll
+D:\pasado\sistema_contable01 F\sistema_contable01\obj\Debug\sistema_contable01.frm_loginn1.resources
+K:\Peli\sistema contable\sistema_contable01 F\sistema_contable01\bin\Debug\sistema_contable01.exe.config
+K:\Peli\sistema contable\sistema_contable01 F\sistema_contable01\obj\Debug\sistema_contable01.exe
+K:\Peli\sistema contable\sistema_contable01 F\sistema_contable01\obj\Debug\sistema_contable01.pdb
+K:\Peli\sistema contable\sistema_contable01 F\sistema_contable01\bin\Debug\sistema_contable01.exe
+K:\Peli\sistema contable\sistema_contable01 F\sistema_contable01\bin\Debug\sistema_contable01.pdb
+K:\Peli\sistema contable\sistema_contable01 F\sistema_contable01\bin\Debug\capa_dato.dll
+K:\Peli\sistema contable\sistema_contable01 F\sistema_contable01\bin\Debug\capa_negocio.dll
+K:\Peli\sistema contable\sistema_contable01 F\sistema_contable01\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+K:\Peli\sistema contable\sistema_contable01 F\sistema_contable01\bin\Debug\Microsoft.SqlServer.Types.dll
+K:\Peli\sistema contable\sistema_contable01 F\sistema_contable01\bin\Debug\capa_dato.pdb
+K:\Peli\sistema contable\sistema_contable01 F\sistema_contable01\bin\Debug\capa_negocio.pdb
+K:\Peli\sistema contable\sistema_contable01 F\sistema_contable01\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+K:\Peli\sistema contable\sistema_contable01 F\sistema_contable01\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+K:\Peli\sistema contable\sistema_contable01 F\sistema_contable01\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+K:\Peli\sistema contable\sistema_contable01 F\sistema_contable01\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+K:\Peli\sistema contable\sistema_contable01 F\sistema_contable01\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+K:\Peli\sistema contable\sistema_contable01 F\sistema_contable01\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+K:\Peli\sistema contable\sistema_contable01 F\sistema_contable01\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+K:\Peli\sistema contable\sistema_contable01 F\sistema_contable01\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+K:\Peli\sistema contable\sistema_contable01 F\sistema_contable01\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+K:\Peli\sistema contable\sistema_contable01 F\sistema_contable01\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+K:\Peli\sistema contable\sistema_contable01 F\sistema_contable01\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+K:\Peli\sistema contable\sistema_contable01 F\sistema_contable01\obj\Debug\sistema_contable01.csprojResolveAssemblyReference.cache
+K:\Peli\sistema contable\sistema_contable01 F\sistema_contable01\obj\Debug\sistema_contable01.frmPrincipal.resources
+K:\Peli\sistema contable\sistema_contable01 F\sistema_contable01\obj\Debug\sistema_contable01.frmPlan_de_cuenta.resources
+K:\Peli\sistema contable\sistema_contable01 F\sistema_contable01\obj\Debug\sistema_contable01.FrmzBuscar_plan.resources
+K:\Peli\sistema contable\sistema_contable01 F\sistema_contable01\obj\Debug\sistema_contable01.frm_asiento.resources
+K:\Peli\sistema contable\sistema_contable01 F\sistema_contable01\obj\Debug\sistema_contable01.Frm_imp_libro_report.resources
+K:\Peli\sistema contable\sistema_contable01 F\sistema_contable01\obj\Debug\sistema_contable01.Frm_libro_mayor_fecha.resources
+K:\Peli\sistema contable\sistema_contable01 F\sistema_contable01\obj\Debug\sistema_contable01.Frm_libro_mayor_b.resources
+K:\Peli\sistema contable\sistema_contable01 F\sistema_contable01\obj\Debug\sistema_contable01.Frm_login.resources
+K:\Peli\sistema contable\sistema_contable01 F\sistema_contable01\obj\Debug\sistema_contable01.frm_loginn1.resources
+K:\Peli\sistema contable\sistema_contable01 F\sistema_contable01\obj\Debug\sistema_contable01.Frm_reportes.resources
+K:\Peli\sistema contable\sistema_contable01 F\sistema_contable01\obj\Debug\sistema_contable01.Frm_report_asiento_fecha.resources
+K:\Peli\sistema contable\sistema_contable01 F\sistema_contable01\obj\Debug\sistema_contable01.Frm_sumas_saldos.resources
+K:\Peli\sistema contable\sistema_contable01 F\sistema_contable01\obj\Debug\sistema_contable01.Frm_usuario.resources
+K:\Peli\sistema contable\sistema_contable01 F\sistema_contable01\obj\Debug\sistema_contable01.Properties.Resources.resources
+K:\Peli\sistema contable\sistema_contable01 F\sistema_contable01\obj\Debug\sistema_contable01.csproj.GenerateResource.Cache
+K:\Peli\sistema contable\sistema_contable01 F\sistema_contable01\obj\Debug\RdlCompile.cache
+K:\Peli\sistema contable\sistema_contable01 F\sistema_contable01\obj\Debug\RdlCompile.compiled
+C:\Users\ALEXANDER\Downloads\para seer reportes\sistema_contable01 F\sistema_contable01\bin\Debug\sistema_contable01.exe.config
+C:\Users\ALEXANDER\Downloads\para seer reportes\sistema_contable01 F\sistema_contable01\obj\Debug\sistema_contable01.exe
+C:\Users\ALEXANDER\Downloads\para seer reportes\sistema_contable01 F\sistema_contable01\obj\Debug\sistema_contable01.pdb
+C:\Users\ALEXANDER\Downloads\para seer reportes\sistema_contable01 F\sistema_contable01\bin\Debug\sistema_contable01.exe
+C:\Users\ALEXANDER\Downloads\para seer reportes\sistema_contable01 F\sistema_contable01\bin\Debug\sistema_contable01.pdb
+C:\Users\ALEXANDER\Downloads\para seer reportes\sistema_contable01 F\sistema_contable01\bin\Debug\capa_dato.dll
+C:\Users\ALEXANDER\Downloads\para seer reportes\sistema_contable01 F\sistema_contable01\bin\Debug\capa_negocio.dll
+C:\Users\ALEXANDER\Downloads\para seer reportes\sistema_contable01 F\sistema_contable01\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\ALEXANDER\Downloads\para seer reportes\sistema_contable01 F\sistema_contable01\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\ALEXANDER\Downloads\para seer reportes\sistema_contable01 F\sistema_contable01\bin\Debug\capa_dato.pdb
+C:\Users\ALEXANDER\Downloads\para seer reportes\sistema_contable01 F\sistema_contable01\bin\Debug\capa_negocio.pdb
+C:\Users\ALEXANDER\Downloads\para seer reportes\sistema_contable01 F\sistema_contable01\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ALEXANDER\Downloads\para seer reportes\sistema_contable01 F\sistema_contable01\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ALEXANDER\Downloads\para seer reportes\sistema_contable01 F\sistema_contable01\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ALEXANDER\Downloads\para seer reportes\sistema_contable01 F\sistema_contable01\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ALEXANDER\Downloads\para seer reportes\sistema_contable01 F\sistema_contable01\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ALEXANDER\Downloads\para seer reportes\sistema_contable01 F\sistema_contable01\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ALEXANDER\Downloads\para seer reportes\sistema_contable01 F\sistema_contable01\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ALEXANDER\Downloads\para seer reportes\sistema_contable01 F\sistema_contable01\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ALEXANDER\Downloads\para seer reportes\sistema_contable01 F\sistema_contable01\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ALEXANDER\Downloads\para seer reportes\sistema_contable01 F\sistema_contable01\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ALEXANDER\Downloads\para seer reportes\sistema_contable01 F\sistema_contable01\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ALEXANDER\Downloads\para seer reportes\sistema_contable01 F\sistema_contable01\obj\Debug\sistema_contable01.csprojResolveAssemblyReference.cache
+C:\Users\ALEXANDER\Downloads\para seer reportes\sistema_contable01 F\sistema_contable01\obj\Debug\sistema_contable01.frmPrincipal.resources
+C:\Users\ALEXANDER\Downloads\para seer reportes\sistema_contable01 F\sistema_contable01\obj\Debug\sistema_contable01.frmPlan_de_cuenta.resources
+C:\Users\ALEXANDER\Downloads\para seer reportes\sistema_contable01 F\sistema_contable01\obj\Debug\sistema_contable01.FrmzBuscar_plan.resources
+C:\Users\ALEXANDER\Downloads\para seer reportes\sistema_contable01 F\sistema_contable01\obj\Debug\sistema_contable01.frm_asiento.resources
+C:\Users\ALEXANDER\Downloads\para seer reportes\sistema_contable01 F\sistema_contable01\obj\Debug\sistema_contable01.Frm_imp_libro_report.resources
+C:\Users\ALEXANDER\Downloads\para seer reportes\sistema_contable01 F\sistema_contable01\obj\Debug\sistema_contable01.Frm_libro_mayor_fecha.resources
+C:\Users\ALEXANDER\Downloads\para seer reportes\sistema_contable01 F\sistema_contable01\obj\Debug\sistema_contable01.Frm_libro_mayor_b.resources
+C:\Users\ALEXANDER\Downloads\para seer reportes\sistema_contable01 F\sistema_contable01\obj\Debug\sistema_contable01.Frm_login.resources
+C:\Users\ALEXANDER\Downloads\para seer reportes\sistema_contable01 F\sistema_contable01\obj\Debug\sistema_contable01.frm_loginn1.resources
+C:\Users\ALEXANDER\Downloads\para seer reportes\sistema_contable01 F\sistema_contable01\obj\Debug\sistema_contable01.Frm_reportes.resources
+C:\Users\ALEXANDER\Downloads\para seer reportes\sistema_contable01 F\sistema_contable01\obj\Debug\sistema_contable01.Frm_report_asiento_fecha.resources
+C:\Users\ALEXANDER\Downloads\para seer reportes\sistema_contable01 F\sistema_contable01\obj\Debug\sistema_contable01.Frm_sumas_saldos.resources
+C:\Users\ALEXANDER\Downloads\para seer reportes\sistema_contable01 F\sistema_contable01\obj\Debug\sistema_contable01.Frm_usuario.resources
+C:\Users\ALEXANDER\Downloads\para seer reportes\sistema_contable01 F\sistema_contable01\obj\Debug\sistema_contable01.Properties.Resources.resources
+C:\Users\ALEXANDER\Downloads\para seer reportes\sistema_contable01 F\sistema_contable01\obj\Debug\sistema_contable01.csproj.GenerateResource.Cache
+C:\Users\ALEXANDER\Downloads\para seer reportes\sistema_contable01 F\sistema_contable01\obj\Debug\RdlCompile.cache
+C:\Users\ALEXANDER\Downloads\para seer reportes\sistema_contable01 F\sistema_contable01\obj\Debug\RdlCompile.compiled
+C:\Users\ALEXANDER\Downloads\para seer reportes\sistema_conta\sistema_contable01 Fu\sistema_contable01\bin\Debug\sistema_contable01.exe.config
+C:\Users\ALEXANDER\Downloads\para seer reportes\sistema_conta\sistema_contable01 Fu\sistema_contable01\obj\Debug\sistema_contable01.exe
+C:\Users\ALEXANDER\Downloads\para seer reportes\sistema_conta\sistema_contable01 Fu\sistema_contable01\obj\Debug\sistema_contable01.pdb
+C:\Users\ALEXANDER\Downloads\para seer reportes\sistema_conta\sistema_contable01 Fu\sistema_contable01\bin\Debug\sistema_contable01.exe
+C:\Users\ALEXANDER\Downloads\para seer reportes\sistema_conta\sistema_contable01 Fu\sistema_contable01\bin\Debug\sistema_contable01.pdb
+C:\Users\ALEXANDER\Downloads\para seer reportes\sistema_conta\sistema_contable01 Fu\sistema_contable01\bin\Debug\capa_dato.dll
+C:\Users\ALEXANDER\Downloads\para seer reportes\sistema_conta\sistema_contable01 Fu\sistema_contable01\bin\Debug\capa_negocio.dll
+C:\Users\ALEXANDER\Downloads\para seer reportes\sistema_conta\sistema_contable01 Fu\sistema_contable01\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\ALEXANDER\Downloads\para seer reportes\sistema_conta\sistema_contable01 Fu\sistema_contable01\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\ALEXANDER\Downloads\para seer reportes\sistema_conta\sistema_contable01 Fu\sistema_contable01\bin\Debug\capa_dato.pdb
+C:\Users\ALEXANDER\Downloads\para seer reportes\sistema_conta\sistema_contable01 Fu\sistema_contable01\bin\Debug\capa_negocio.pdb
+C:\Users\ALEXANDER\Downloads\para seer reportes\sistema_conta\sistema_contable01 Fu\sistema_contable01\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ALEXANDER\Downloads\para seer reportes\sistema_conta\sistema_contable01 Fu\sistema_contable01\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ALEXANDER\Downloads\para seer reportes\sistema_conta\sistema_contable01 Fu\sistema_contable01\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ALEXANDER\Downloads\para seer reportes\sistema_conta\sistema_contable01 Fu\sistema_contable01\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ALEXANDER\Downloads\para seer reportes\sistema_conta\sistema_contable01 Fu\sistema_contable01\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ALEXANDER\Downloads\para seer reportes\sistema_conta\sistema_contable01 Fu\sistema_contable01\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ALEXANDER\Downloads\para seer reportes\sistema_conta\sistema_contable01 Fu\sistema_contable01\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ALEXANDER\Downloads\para seer reportes\sistema_conta\sistema_contable01 Fu\sistema_contable01\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ALEXANDER\Downloads\para seer reportes\sistema_conta\sistema_contable01 Fu\sistema_contable01\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ALEXANDER\Downloads\para seer reportes\sistema_conta\sistema_contable01 Fu\sistema_contable01\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ALEXANDER\Downloads\para seer reportes\sistema_conta\sistema_contable01 Fu\sistema_contable01\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ALEXANDER\Downloads\para seer reportes\sistema_conta\sistema_contable01 Fu\sistema_contable01\obj\Debug\sistema_contable01.csprojResolveAssemblyReference.cache
+C:\Users\ALEXANDER\Downloads\para seer reportes\sistema_conta\sistema_contable01 Fu\sistema_contable01\obj\Debug\sistema_contable01.frmPrincipal.resources
+C:\Users\ALEXANDER\Downloads\para seer reportes\sistema_conta\sistema_contable01 Fu\sistema_contable01\obj\Debug\sistema_contable01.frmPlan_de_cuenta.resources
+C:\Users\ALEXANDER\Downloads\para seer reportes\sistema_conta\sistema_contable01 Fu\sistema_contable01\obj\Debug\sistema_contable01.FrmzBuscar_plan.resources
+C:\Users\ALEXANDER\Downloads\para seer reportes\sistema_conta\sistema_contable01 Fu\sistema_contable01\obj\Debug\sistema_contable01.frm_asiento.resources
+C:\Users\ALEXANDER\Downloads\para seer reportes\sistema_conta\sistema_contable01 Fu\sistema_contable01\obj\Debug\sistema_contable01.Frm_imp_libro_report.resources
+C:\Users\ALEXANDER\Downloads\para seer reportes\sistema_conta\sistema_contable01 Fu\sistema_contable01\obj\Debug\sistema_contable01.Frm_libro_mayor_fecha.resources
+C:\Users\ALEXANDER\Downloads\para seer reportes\sistema_conta\sistema_contable01 Fu\sistema_contable01\obj\Debug\sistema_contable01.Frm_libro_mayor_b.resources
+C:\Users\ALEXANDER\Downloads\para seer reportes\sistema_conta\sistema_contable01 Fu\sistema_contable01\obj\Debug\sistema_contable01.Frm_login.resources
+C:\Users\ALEXANDER\Downloads\para seer reportes\sistema_conta\sistema_contable01 Fu\sistema_contable01\obj\Debug\sistema_contable01.frm_loginn1.resources
+C:\Users\ALEXANDER\Downloads\para seer reportes\sistema_conta\sistema_contable01 Fu\sistema_contable01\obj\Debug\sistema_contable01.Frm_reportes.resources
+C:\Users\ALEXANDER\Downloads\para seer reportes\sistema_conta\sistema_contable01 Fu\sistema_contable01\obj\Debug\sistema_contable01.Frm_report_asiento_fecha.resources
+C:\Users\ALEXANDER\Downloads\para seer reportes\sistema_conta\sistema_contable01 Fu\sistema_contable01\obj\Debug\sistema_contable01.Frm_sumas_saldos.resources
+C:\Users\ALEXANDER\Downloads\para seer reportes\sistema_conta\sistema_contable01 Fu\sistema_contable01\obj\Debug\sistema_contable01.Frm_usuario.resources
+C:\Users\ALEXANDER\Downloads\para seer reportes\sistema_conta\sistema_contable01 Fu\sistema_contable01\obj\Debug\sistema_contable01.Properties.Resources.resources
+C:\Users\ALEXANDER\Downloads\para seer reportes\sistema_conta\sistema_contable01 Fu\sistema_contable01\obj\Debug\sistema_contable01.csproj.GenerateResource.Cache
+C:\Users\ALEXANDER\Downloads\para seer reportes\sistema_conta\sistema_contable01 Fu\sistema_contable01\obj\Debug\RdlCompile.cache
+C:\Users\ALEXANDER\Downloads\para seer reportes\sistema_conta\sistema_contable01 Fu\sistema_contable01\obj\Debug\RdlCompile.compiled
+C:\Users\ALEXANDER\Downloads\para seer reportes\sistema_conta\sistema_contable01 Fu\sistema_contable01\obj\Debug\sistema_contable01.frm_gestion.resources
+C:\Users\ALEXANDER\Downloads\para seer reportes\sistema_conta\sistema_contable01 Fu\sistema_contable01\obj\Debug\sistema_contable01.frm_planes.resources
+C:\Users\ALEXANDER\Downloads\para seer reportes\sistema_conta\sistema_contable01 Fu\sistema_contable01\obj\Debug\sistema_contable01.csproj.ResolveComReference.cache
+C:\Users\ALEXANDER\Downloads\para seer reportes\sistema_conta\sistema_contable01 Fu\sistema_contable01\obj\Debug\sistema_contable01.frm_empresa.resources
+C:\Users\USUARIO\Desktop\sistem\sistema_contable01 Fu\sistema_contable01\bin\Debug\sistema_contable01.exe.config
+C:\Users\USUARIO\Desktop\sistem\sistema_contable01 Fu\sistema_contable01\obj\Debug\Interop.esriSearch.dll
+C:\Users\USUARIO\Desktop\sistem\sistema_contable01 Fu\sistema_contable01\obj\Debug\sistema_contable01.csproj.ResolveComReference.cache
+C:\Users\USUARIO\Desktop\sistem\sistema_contable01 Fu\sistema_contable01\obj\Debug\sistema_contable01.exe
+C:\Users\USUARIO\Desktop\sistem\sistema_contable01 Fu\sistema_contable01\obj\Debug\sistema_contable01.pdb
+C:\Users\USUARIO\Desktop\sistem\sistema_contable01 Fu\sistema_contable01\bin\Debug\sistema_contable01.exe
+C:\Users\USUARIO\Desktop\sistem\sistema_contable01 Fu\sistema_contable01\bin\Debug\sistema_contable01.pdb
+C:\Users\USUARIO\Desktop\sistem\sistema_contable01 Fu\sistema_contable01\bin\Debug\capa_dato.dll
+C:\Users\USUARIO\Desktop\sistem\sistema_contable01 Fu\sistema_contable01\bin\Debug\capa_negocio.dll
+C:\Users\USUARIO\Desktop\sistem\sistema_contable01 Fu\sistema_contable01\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\USUARIO\Desktop\sistem\sistema_contable01 Fu\sistema_contable01\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\USUARIO\Desktop\sistem\sistema_contable01 Fu\sistema_contable01\bin\Debug\capa_dato.pdb
+C:\Users\USUARIO\Desktop\sistem\sistema_contable01 Fu\sistema_contable01\bin\Debug\capa_negocio.pdb
+C:\Users\USUARIO\Desktop\sistem\sistema_contable01 Fu\sistema_contable01\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\USUARIO\Desktop\sistem\sistema_contable01 Fu\sistema_contable01\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\USUARIO\Desktop\sistem\sistema_contable01 Fu\sistema_contable01\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\USUARIO\Desktop\sistem\sistema_contable01 Fu\sistema_contable01\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\USUARIO\Desktop\sistem\sistema_contable01 Fu\sistema_contable01\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\USUARIO\Desktop\sistem\sistema_contable01 Fu\sistema_contable01\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\USUARIO\Desktop\sistem\sistema_contable01 Fu\sistema_contable01\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\USUARIO\Desktop\sistem\sistema_contable01 Fu\sistema_contable01\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\USUARIO\Desktop\sistem\sistema_contable01 Fu\sistema_contable01\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\USUARIO\Desktop\sistem\sistema_contable01 Fu\sistema_contable01\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\USUARIO\Desktop\sistem\sistema_contable01 Fu\sistema_contable01\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\USUARIO\Desktop\sistem\sistema_contable01 Fu\sistema_contable01\obj\Debug\sistema_contable01.csprojResolveAssemblyReference.cache
+C:\Users\USUARIO\Desktop\sistem\sistema_contable01 Fu\sistema_contable01\obj\Debug\sistema_contable01.frmPrincipal.resources
+C:\Users\USUARIO\Desktop\sistem\sistema_contable01 Fu\sistema_contable01\obj\Debug\sistema_contable01.frmPlan_de_cuenta.resources
+C:\Users\USUARIO\Desktop\sistem\sistema_contable01 Fu\sistema_contable01\obj\Debug\sistema_contable01.FrmzBuscar_plan.resources
+C:\Users\USUARIO\Desktop\sistem\sistema_contable01 Fu\sistema_contable01\obj\Debug\sistema_contable01.frm_asiento.resources
+C:\Users\USUARIO\Desktop\sistem\sistema_contable01 Fu\sistema_contable01\obj\Debug\sistema_contable01.frm_empresa.resources
+C:\Users\USUARIO\Desktop\sistem\sistema_contable01 Fu\sistema_contable01\obj\Debug\sistema_contable01.frm_gestion.resources
+C:\Users\USUARIO\Desktop\sistem\sistema_contable01 Fu\sistema_contable01\obj\Debug\sistema_contable01.Frm_imp_libro_report.resources
+C:\Users\USUARIO\Desktop\sistem\sistema_contable01 Fu\sistema_contable01\obj\Debug\sistema_contable01.Frm_libro_mayor_fecha.resources
+C:\Users\USUARIO\Desktop\sistem\sistema_contable01 Fu\sistema_contable01\obj\Debug\sistema_contable01.Frm_libro_mayor_b.resources
+C:\Users\USUARIO\Desktop\sistem\sistema_contable01 Fu\sistema_contable01\obj\Debug\sistema_contable01.Frm_login.resources
+C:\Users\USUARIO\Desktop\sistem\sistema_contable01 Fu\sistema_contable01\obj\Debug\sistema_contable01.frm_loginn1.resources
+C:\Users\USUARIO\Desktop\sistem\sistema_contable01 Fu\sistema_contable01\obj\Debug\sistema_contable01.frm_planes.resources
+C:\Users\USUARIO\Desktop\sistem\sistema_contable01 Fu\sistema_contable01\obj\Debug\sistema_contable01.Frm_reportes.resources
+C:\Users\USUARIO\Desktop\sistem\sistema_contable01 Fu\sistema_contable01\obj\Debug\sistema_contable01.Frm_report_asiento_fecha.resources
+C:\Users\USUARIO\Desktop\sistem\sistema_contable01 Fu\sistema_contable01\obj\Debug\sistema_contable01.Frm_sumas_saldos.resources
+C:\Users\USUARIO\Desktop\sistem\sistema_contable01 Fu\sistema_contable01\obj\Debug\sistema_contable01.Frm_usuario.resources
+C:\Users\USUARIO\Desktop\sistem\sistema_contable01 Fu\sistema_contable01\obj\Debug\sistema_contable01.Properties.Resources.resources
+C:\Users\USUARIO\Desktop\sistem\sistema_contable01 Fu\sistema_contable01\obj\Debug\sistema_contable01.csproj.GenerateResource.Cache
+C:\Users\USUARIO\Desktop\sistem\sistema_contable01 Fu\sistema_contable01\obj\Debug\RdlCompile.cache
+C:\Users\USUARIO\Desktop\sistem\sistema_contable01 Fu\sistema_contable01\obj\Debug\RdlCompile.compiled
+D:\sql server 2014 64bits\sistem\sistema_contable01 Fu\sistema_contable01\bin\Debug\sistema_contable01.exe.config
+D:\sql server 2014 64bits\sistem\sistema_contable01 Fu\sistema_contable01\obj\Debug\Interop.esriSearch.dll
+D:\sql server 2014 64bits\sistem\sistema_contable01 Fu\sistema_contable01\obj\Debug\sistema_contable01.csproj.ResolveComReference.cache
+D:\sql server 2014 64bits\sistem\sistema_contable01 Fu\sistema_contable01\obj\Debug\sistema_contable01.exe
+D:\sql server 2014 64bits\sistem\sistema_contable01 Fu\sistema_contable01\obj\Debug\sistema_contable01.pdb
+C:\Users\ALEXANDER\Downloads\Telegram Desktop\sistem\sistema_contable01 Fu\sistema_contable01\bin\Debug\sistema_contable01.exe.config
+C:\Users\ALEXANDER\Downloads\Telegram Desktop\sistem\sistema_contable01 Fu\sistema_contable01\obj\Debug\sistema_contable01.csproj.ResolveComReference.cache
+C:\Users\ALEXANDER\Downloads\Telegram Desktop\sistem\sistema_contable01 Fu\sistema_contable01\obj\Debug\sistema_contable01.exe
+C:\Users\ALEXANDER\Downloads\Telegram Desktop\sistem\sistema_contable01 Fu\sistema_contable01\obj\Debug\sistema_contable01.pdb
+C:\Users\ALEXANDER\Downloads\Telegram Desktop\sistem\sistema_contable01 Fu\sistema_contable01\bin\Debug\sistema_contable01.exe
+C:\Users\ALEXANDER\Downloads\Telegram Desktop\sistem\sistema_contable01 Fu\sistema_contable01\bin\Debug\sistema_contable01.pdb
+C:\Users\ALEXANDER\Downloads\Telegram Desktop\sistem\sistema_contable01 Fu\sistema_contable01\bin\Debug\capa_dato.dll
+C:\Users\ALEXANDER\Downloads\Telegram Desktop\sistem\sistema_contable01 Fu\sistema_contable01\bin\Debug\capa_negocio.dll
+C:\Users\ALEXANDER\Downloads\Telegram Desktop\sistem\sistema_contable01 Fu\sistema_contable01\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\ALEXANDER\Downloads\Telegram Desktop\sistem\sistema_contable01 Fu\sistema_contable01\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\ALEXANDER\Downloads\Telegram Desktop\sistem\sistema_contable01 Fu\sistema_contable01\bin\Debug\capa_dato.pdb
+C:\Users\ALEXANDER\Downloads\Telegram Desktop\sistem\sistema_contable01 Fu\sistema_contable01\bin\Debug\capa_negocio.pdb
+C:\Users\ALEXANDER\Downloads\Telegram Desktop\sistem\sistema_contable01 Fu\sistema_contable01\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ALEXANDER\Downloads\Telegram Desktop\sistem\sistema_contable01 Fu\sistema_contable01\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ALEXANDER\Downloads\Telegram Desktop\sistem\sistema_contable01 Fu\sistema_contable01\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ALEXANDER\Downloads\Telegram Desktop\sistem\sistema_contable01 Fu\sistema_contable01\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ALEXANDER\Downloads\Telegram Desktop\sistem\sistema_contable01 Fu\sistema_contable01\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ALEXANDER\Downloads\Telegram Desktop\sistem\sistema_contable01 Fu\sistema_contable01\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ALEXANDER\Downloads\Telegram Desktop\sistem\sistema_contable01 Fu\sistema_contable01\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ALEXANDER\Downloads\Telegram Desktop\sistem\sistema_contable01 Fu\sistema_contable01\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ALEXANDER\Downloads\Telegram Desktop\sistem\sistema_contable01 Fu\sistema_contable01\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ALEXANDER\Downloads\Telegram Desktop\sistem\sistema_contable01 Fu\sistema_contable01\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ALEXANDER\Downloads\Telegram Desktop\sistem\sistema_contable01 Fu\sistema_contable01\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ALEXANDER\Downloads\Telegram Desktop\sistem\sistema_contable01 Fu\sistema_contable01\obj\Debug\sistema_contable01.csprojResolveAssemblyReference.cache
+C:\Users\ALEXANDER\Downloads\Telegram Desktop\sistem\sistema_contable01 Fu\sistema_contable01\obj\Debug\sistema_contable01.frmPlan_de_cuenta.resources
+C:\Users\ALEXANDER\Downloads\Telegram Desktop\sistem\sistema_contable01 Fu\sistema_contable01\obj\Debug\sistema_contable01.FrmzBuscar_plan.resources
+C:\Users\ALEXANDER\Downloads\Telegram Desktop\sistem\sistema_contable01 Fu\sistema_contable01\obj\Debug\sistema_contable01.frm_asiento.resources
+C:\Users\ALEXANDER\Downloads\Telegram Desktop\sistem\sistema_contable01 Fu\sistema_contable01\obj\Debug\sistema_contable01.frm_empresa.resources
+C:\Users\ALEXANDER\Downloads\Telegram Desktop\sistem\sistema_contable01 Fu\sistema_contable01\obj\Debug\sistema_contable01.frm_gestion.resources
+C:\Users\ALEXANDER\Downloads\Telegram Desktop\sistem\sistema_contable01 Fu\sistema_contable01\obj\Debug\sistema_contable01.Frm_imp_libro_report.resources
+C:\Users\ALEXANDER\Downloads\Telegram Desktop\sistem\sistema_contable01 Fu\sistema_contable01\obj\Debug\sistema_contable01.Frm_libro_mayor_fecha.resources
+C:\Users\ALEXANDER\Downloads\Telegram Desktop\sistem\sistema_contable01 Fu\sistema_contable01\obj\Debug\sistema_contable01.Frm_libro_mayor_b.resources
+C:\Users\ALEXANDER\Downloads\Telegram Desktop\sistem\sistema_contable01 Fu\sistema_contable01\obj\Debug\sistema_contable01.Frm_login.resources
+C:\Users\ALEXANDER\Downloads\Telegram Desktop\sistem\sistema_contable01 Fu\sistema_contable01\obj\Debug\sistema_contable01.frm_loginn1.resources
+C:\Users\ALEXANDER\Downloads\Telegram Desktop\sistem\sistema_contable01 Fu\sistema_contable01\obj\Debug\sistema_contable01.Frm_reportes.resources
+C:\Users\ALEXANDER\Downloads\Telegram Desktop\sistem\sistema_contable01 Fu\sistema_contable01\obj\Debug\sistema_contable01.Frm_report_asiento_fecha.resources
+C:\Users\ALEXANDER\Downloads\Telegram Desktop\sistem\sistema_contable01 Fu\sistema_contable01\obj\Debug\sistema_contable01.Frm_sumas_saldos.resources
+C:\Users\ALEXANDER\Downloads\Telegram Desktop\sistem\sistema_contable01 Fu\sistema_contable01\obj\Debug\sistema_contable01.Frm_usuario.resources
+C:\Users\ALEXANDER\Downloads\Telegram Desktop\sistem\sistema_contable01 Fu\sistema_contable01\obj\Debug\sistema_contable01.Properties.Resources.resources
+C:\Users\ALEXANDER\Downloads\Telegram Desktop\sistem\sistema_contable01 Fu\sistema_contable01\obj\Debug\sistema_contable01.csproj.GenerateResource.Cache
+C:\Users\ALEXANDER\Downloads\Telegram Desktop\sistem\sistema_contable01 Fu\sistema_contable01\obj\Debug\RdlCompile.cache
+C:\Users\ALEXANDER\Downloads\Telegram Desktop\sistem\sistema_contable01 Fu\sistema_contable01\obj\Debug\RdlCompile.compiled
